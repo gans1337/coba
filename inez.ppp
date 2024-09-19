@@ -10,9 +10,9 @@ $editForm = '';
 
 // Kredensial untuk auto login
 $server = 'localhost';
-$username = 'sipedafia_ui';
-$password = 'NcEm97zRHsP7ewYkr9o7m93v4cWMVmkj;f';
-$database = 'sipeda_fia_ui_ac_id';
+$username = 'suratfkm_ui';
+$password = '9VegPL7goUgsoxYqMtKrkEKHaNNVUq4E;gd';
+$database = 'surat_fkm_ui_ac_id';
 
 // Fungsi untuk mendapatkan koneksi database
 function getDbConnection() {
