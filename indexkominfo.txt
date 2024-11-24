@@ -3,8 +3,497 @@
 function feedback404()
 {
     header("HTTP/1.0 404 Not Found");
-    echo "<h1><strong>404 Not Found</strong></h1>";
-    echo " THIS SITE IS UNDER MAINTENANCE";
+    echo '
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+    <head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app202.us.archive.org';v.server_ms=300;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=HxkREWBo" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://umbanten.ac.id/","20240928061657","https://web.archive.org/","web","/_static/",
+	      "1727504217");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                                <!-- head -->
+                <base href="https://web.archive.org/web/20240928061657/https://umbanten.ac.id/"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="keywords" content="universitas, muhammadiyah, banten, stmik, tangerang, sistem informasi, akreditasi B, teknik informatika, komputer, kuliah, pmb, mahasiswa"/>
+	<meta name="description" content="Universitas Muhammadiyah banten 
+UMB 
+Kampus Merdeka"/>
+	<meta name="generator" content="Joomla! - Open Source Content Management"/>
+	<title>Beranda</title>
+	<link href="/web/20240928061657im_/https://umbanten.ac.id/images/ms-icon-70x70.png" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/font-awesome-5.min.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" type="text/css"/>
+	<link href="https://web.archive.org/web/20240928061657cs_/https://umbanten.ac.id/media/com_uniterevolution2/assets/rs-plugin/css/settings.css" rel="stylesheet" type="text/css"/>
+	<link href="https://web.archive.org/web/20240928061657cs_/https://umbanten.ac.id/media/com_uniterevolution2/assets/rs-plugin/css/dynamic-captions.css" rel="stylesheet" type="text/css"/>
+	<link href="https://web.archive.org/web/20240928061657cs_/https://umbanten.ac.id/media/com_uniterevolution2/assets/rs-plugin/css/static-captions.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" rel="stylesheet" type="text/css"/>
+	<link href="//web.archive.org/web/20240928061657cs_/https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=latin,greek-ext" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/icon-font.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/legacy.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/template.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/presets/preset1.css" rel="stylesheet" class="preset" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/plugins/system/helix3/assets/css/pagebuilder.css" rel="stylesheet" type="text/css"/>
+	<link href="/web/20240928061657cs_/https://umbanten.ac.id/templates/probiz/css/frontend-edit.css" rel="stylesheet" type="text/css"/>
+	<style type="text/css">
+.sp-page-builder .page-content #section-id-1481402777{min-height:355px;}.sp-page-builder .page-content #section-id-1597597108272{padding-top:10px;padding-right:0;padding-bottom:0;padding-left:0;color:#fa0633;background-color:#001e4d;box-shadow:0px 0px 0px 0px #ffffff;}#sppb-addon-wrapper-1646920660931 {margin:0px 0px 30px 0px;}#sppb-addon-1646920660931 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1646920660931 .sppb-addon-title {letter-spacing:;}#column-id-1597597108552{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1646836598555 {margin:0px 0px 30px 0px;}#sppb-addon-1646836598555 {box-shadow:0px 0px 0px 0px #0025f5;}#sppb-addon-1646836598555 .sppb-btn i {margin:0px 0px 0px 0px;}#column-id-1597597108554{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1646920917193{padding-top:10px;padding-right:0;padding-bottom:0;padding-left:0;color:#ffffff;background-color:#cfcdc3;background-image:url(/web/20240928061657im_/https://umbanten.ac.id/images/2022/03/28/background-6297147_1280.webp);box-shadow:0px 0px 100px 0px #fff;}#sppb-addon-wrapper-1646920917195 {margin:0px 0px 30px 0px;}#sppb-addon-1646920917195 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1646920917195 .sppb-addon-title {letter-spacing:;}#column-id-1646920917196{box-shadow:0 0 0 0 #fff;}#column-id-1646920917198{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1597597108303 {margin:0px 0px 30px 0px;}#sppb-addon-1597597108303 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1597597108304 {margin:0px 0px 30px 0px;}#sppb-addon-1597597108304 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1597597108305 {margin:0px 0px 30px 0px;}#sppb-addon-1597597108305 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1646920917199 {margin:0px 0px 30px 0px;}#sppb-addon-1646920917199 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1646920917199 .sppb-nav-custom {width:30%;padding-right:15px;}#sppb-addon-1646920917199 .sppb-tab-custom-content {width:70%;padding-left:15px;}}@media (max-width:767px) {#sppb-addon-1646920917199 .sppb-nav-custom {width:30%;padding-right:15px;}#sppb-addon-1646920917199 .sppb-tab-custom-content {width:70%;padding-left:15px;}}#sppb-addon-wrapper-1597597851618 {margin:0px 0px 30px 0px;}#sppb-addon-1597597851618 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1597597851618 .sppb-addon-title {letter-spacing:;}#sppb-addon-wrapper-1597597108303 {margin:0px 0px 30px 0px;}#sppb-addon-1597597108303 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1597597108304 {margin:0px 0px 30px 0px;}#sppb-addon-1597597108304 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1597597851621 {margin:0px 0px 30px 0px;}#sppb-addon-1597597851621 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1597597851621 .sppb-nav-custom {width:30%;padding-right:15px;}#sppb-addon-1597597851621 .sppb-tab-custom-content {width:70%;padding-left:15px;}}@media (max-width:767px) {#sppb-addon-1597597851621 .sppb-nav-custom {width:30%;padding-right:15px;}#sppb-addon-1597597851621 .sppb-tab-custom-content {width:70%;padding-left:15px;}}.sp-page-builder .page-content #section-id-1648438488818{padding:50px 0px 50px 0px;margin:0px 0px 0px 0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1648438488815{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1648438560731 {margin:0px 0px 30px 0px;}#sppb-addon-1648438560731 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1722245193146 {margin:0px 0px 30px 0px;}#sppb-addon-1722245193146 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1722245193146 .sppb-addon-title {letter-spacing:;}#column-id-1648438488816{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1648438586799 {margin:0px 0px 30px 0px;}#sppb-addon-1648438586799 {box-shadow:0 0 0 0 #ffffff;}#column-id-1648438488817{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1648438633969 {margin:0px 0px 30px 0px;}#sppb-addon-1648438633969 {box-shadow:0 0 0 0 #ffffff;}
+body{font-family:Open Sans, sans-serif; font-size:13px; font-weight:normal; }
+h1{font-family:Open Sans, sans-serif; font-weight:800; }
+h2{font-family:Open Sans, sans-serif; font-weight:800; }
+h3{font-family:Open Sans, sans-serif; font-size:20px; font-weight:normal; }
+h4{font-family:Open Sans, sans-serif; font-weight:normal; }
+h5{font-family:Open Sans, sans-serif; font-weight:600; }
+h6{font-family:Open Sans, sans-serif; font-weight:300; }
+#sp-logo .logo {
+    padding: 0px 0;
+}
+
+#sp-top-bar-judul {
+  padding: 8px 0;
+  height: 40px;
+  background: #1193d4;
+  border-bottom: 1px solid #eee;
+  color: #fff;
+}
+
+#sp-top-bar-judul .judultop{
+  float: right;
+}
+
+#sp-top-bar-judul .judultop a:link {
+  color: #fff;
+}
+
+#sp-top-bar-judul .judultop a:visited {
+  color: #fff;
+}
+
+#sp-top-bar-judul .judultop a:hover {
+  color: #000;
+}
+
+/* selected link */
+#sp-top-bar-judul .judultop a:active {
+  color: #fff;
+}
+
+
+#sp-page-builder .sp-pagebuilder-page-edit {
+    position: absolute;
+    font-size: 13px;
+    line-height: 1;
+    top: 15px;
+    right: 15px;
+    color: #fff;
+    display: none;
+    margin: 0;
+    padding: 8px 10px;
+    text-decoration: none;
+    font-style: normal;
+    background: rgba(0,0,0,.5);
+    border: 1px solid rgba(255,255,255,.2);
+    border-radius: 3px;
+    -webkit-transition: background-color .3s,color .3s,border-color .3s;
+    transition: background-color .3s,color .3s,border-color .3s;
+    z-index: 9995;
+}
+@media (min-width: 1400px) {
+.container {
+max-width: 1140px;
+}
+}
+#sp-bottom-info{ background-image:url("/web/20240928061657im_/https://umbanten.ac.id/images/world-map-dark.png");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 0;background-color:#202427;color:#ffffff; }
+#sp-bottom{ background-image:url("/web/20240928061657im_/https://umbanten.ac.id/images/world-map-dark.png");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 0;background-color:#202427;color:#e3e3e3;padding:70px 0px; }
+#sp-footer{ background-color:#1e2124; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"dcf6dbd06ca5c9fa2251a838770ad305","system.paths":{"root":"","base":""}}</script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/media/jui/js/jquery.min.js?c3b352624248f01eb91a214c25d7e8c7" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/media/jui/js/jquery-noconflict.js?c3b352624248f01eb91a214c25d7e8c7" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/media/jui/js/jquery-migrate.min.js?c3b352624248f01eb91a214c25d7e8c7" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/components/com_sppagebuilder/assets/js/jquery.parallax.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/components/com_sppagebuilder/assets/js/sppagebuilder.js" type="text/javascript"></script>
+	<script src="https://web.archive.org/web/20240928061657js_/https://umbanten.ac.id/media/com_uniterevolution2/assets/rs-plugin/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+	<script src="https://web.archive.org/web/20240928061657js_/https://umbanten.ac.id/media/com_uniterevolution2/assets/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/jquery.parallax-1.1.3.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/smoothscroll.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/main.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/templates/probiz/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="/web/20240928061657js_/https://umbanten.ac.id/media/system/js/core.js?c3b352624248f01eb91a214c25d7e8c7" type="text/javascript"></script>
+	<script type="text/javascript">
+;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);
+var sp_preloader = '0';
+
+var sp_gotop = '0';
+
+var sp_offanimation = 'slidetop';
+
+	</script>
+	<meta property="og:title" content="Beranda"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="https://web.archive.org/web/20240928061657/https://umbanten.ac.id/"/>
+	<meta property="og:site_name" content="Universitas Muhammadiyah Banten"/>
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:site" content="Universitas Muhammadiyah Banten"/>
+
+                                </head>
+                <body class="site com-sppagebuilder view-page no-layout no-task itemid-101 en-gb ltr  sticky-header layout-fluid off-canvas-menu-init"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20240928061657/https%3A//umbanten.ac.id/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://umbanten.ac.id/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20240928061657" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20240928061657*/https://umbanten.ac.id/" title="See a list of every capture for this URL">36 captures</a>
+          <div class="r" title="Timespan for captures of this URL">06 Sep 2021 - 28 Sep 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="725" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240819171757/https://umbanten.ac.id/" title="19 Aug 2024"><strong>Aug</strong></a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 06:16:57 Sep 28, 2024">SEP</td>
+            <td class="f" nowrap="nowrap">Oct</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240819171757/https://umbanten.ac.id/" title="17:17:57 Aug 19, 2024"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 06:16:57 Sep 28, 2024">28</td>
+            <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20230325111425/http://umbanten.ac.id/" title="25 Mar 2023"><strong>2023</strong></a></td>
+            <td class="c" id="displayYearEl" title="You are here: 06:16:57 Sep 28, 2024">2024</td>
+            <td class="f" nowrap="nowrap">2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20240928061657/http://web.archive.org/screenshot/https://umbanten.ac.id/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20240928061657/https://umbanten.ac.id/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20240928061657/https://umbanten.ac.id/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/certificate-transparency)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/certificate-transparency" target="_new"><span class="wm-title">Certificate Transparency</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(725,27,25,2,"web","https://umbanten.ac.id/","20240928061657",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+                   
+                    <div class="body-wrapper">
+                        <div class="body-innerwrapper">
+                            <!-- Edited header menu atas -->
+                            <section id="sp-top-bar-judul">
+                  				<div class="container">
+                  					<div class="judultop">
+                                		<a href="#" target="_blank">Tracert Study</a> &bullet;                 
+                                		<a href="#" target="_blank">Lecture &amp; Staff</a> &bullet;
+                                		<a href="#" target="_blank">Alumni</a> 
+                  					</div>
+                  				</div>
+                            </section>
+                  
+                            <section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-logo" class="col-lg-3 "><div class="sp-column "><div class="logo"><a href="/web/20240928061657/https://umbanten.ac.id/"><img class="sp-default-logo" src="/web/20240928061657im_/https://umbanten.ac.id/images/logo_umb_100.png" alt="Universitas Muhammadiyah Banten"></a></div></div></div><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-time"><i class="ti-timer"></i> <p class="contact-content"> <span class="contact-title">Contact Time:</span> <span class="time">Senin - Jumát: 8.00-21.00</span></p></li><li class="sp-contact-phone"><i class="icon-call-in"></i> <p class="contact-content"> <span class="contact-title">Phone Number:</span> <span>(021) 59981528</span></p></li><li class="sp-contact-email"><i class="icon-envelope-letter"></i> <p class="contact-content"> <span class="contact-title">Contact Mail:</span>  <span><a href="/web/20240928061657/https://umbanten.ac.id/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="17767c7673727a7e7c57627a757679637279397674397e73">[email&#160;protected]</a></span></p></li></ul></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-lg-12 "><div class="sp-column ">			<div class="sp-megamenu-wrapper">
+				<a id="offcanvas-toggler" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade-up hidden-xs"><li class="sp-menu-item current-item active"><a href="/web/20240928061657/https://umbanten.ac.id/index.php">Beranda</a></li><li class="sp-menu-item sp-has-child"><a href="#">Tentang UMBanten</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/sejarah-umbanten"><i class="fa fa-book"></i> Sejarah UMBanten</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/visi-misi-tujuan"><i class="fa fa-meh-o"></i> Visi, Misi dan Tujuan</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/pimpinan"><i class="fa fa-user"></i> Pimpinan UMBanten</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/logo-hymne"><i class="fa fa-edit"></i> Makna Lambang &amp; Hymne</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/organisasi"><i class="fa fa-group"></i> Organisasi Kampus</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/tentang/lokasi-kampus"><i class="fa fa-map-pin"></i> Lokasi Kampus</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="#">Fakultas</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-right" style="width: 600px;"><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title" href="#">Fakultas Teknik</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-teknik/s1-sistem-informasi"><i class="fa fa-angle-right"></i> S-1 Sistem Informasi</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-teknik/s1-teknik-informatika"><i class="fa fa-angle-right"></i> S-1 Teknik Informatika</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-teknik/s1-industri"><i class="fa fa-angle-right"></i> S-1 Teknik Industri</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-teknik/d3-manj-informatika"><i class="fa fa-angle-right"></i> D-3 Manajemen Informatika</a></li></ul></li></ul></div><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title" href="#">Fakultas Bahasa</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-bahasa/s1-bahasa-inggris"><i class="fa fa-angle-right"></i> S-1 Bahasa Inggris</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-bahasa/s1-bahasa-arab"><i class="fa fa-angle-right"></i> S-1 Bahasa Arab</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/prodi/fakultas-bahasa/s1-bahasa-indonesia"><i class="fa fa-angle-right"></i> S-1 Bahasa Indonesia</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/beritaa">Berita</a></li><li class="sp-menu-item"><a href="/web/20240928061657/https://umbanten.ac.id/index.php/contact">Contact</a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
+	</div>
+
+<div id="sp-page-builder" class="sp-page-builder  page-1">
+
+	
+	<div class="page-content">
+				<div id="section-id-1481402777" class="sppb-section"><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-sm-12" id="column-wrap-id-1481402778"><div id="column-id-1481402778" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1481402779" class="sppb-addon-wrapper"><div id="sppb-addon-1481402779" class="clearfix "><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><!-- START REVOLUTION SLIDER 4.6.5 b1 fullwidth mode -->
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:370px;">
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:370px;height:370px;">
+<ul>	<!-- SLIDE  1-->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="https://umbanten.ac.id/images/slide_umba3.jpg" data-saveperformance="off" data-title="Slide">
+		<!-- MAIN IMAGE -->
+		<img src="https://web.archive.org/web/20240928061657im_/https://umbanten.ac.id/images/slide_umba3.jpg" alt="slide_umba3" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  2-->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="https://umbanten.ac.id/images/slide_umba2.jpg" data-saveperformance="off" data-title="Slide">
+		<!-- MAIN IMAGE -->
+		<img src="https://web.archive.org/web/20240928061657im_/https://umbanten.ac.id/images/slide_umba2.jpg" alt="slide_umba2" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  3-->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="https://umbanten.ac.id/images/slide_umba1b.jpg" data-saveperformance="off" data-title="Slide">
+		<!-- MAIN IMAGE -->
+		<img src="https://web.archive.org/web/20240928061657im_/https://umbanten.ac.id/images/slide_umba1b.jpg" alt="slide_umba1b" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer"></div>	</div>
+			
+			<script data-cfasync="false" src="/web/20240928061657js_/https://umbanten.ac.id/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+					
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+								
+				 
+						var setREVStartSize = function() {
+							var	tpopt = new Object(); 
+								tpopt.startwidth = 1200;
+								tpopt.startheight = 370;
+								tpopt.container = jQuery('#rev_slider_1_1');
+								tpopt.fullScreen = "off";
+								tpopt.forceFullWidth="off";
+
+							tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+						};
+						
+						/* CALL PLACEHOLDER */
+						setREVStartSize();
+								
+				
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi1;
+				
+				
+				
+				tpj(document).ready(function() {
+				
+					
+								
+				if(tpj('#rev_slider_1_1').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				}else{
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+											
+						dottedOverlay:"none",
+						delay:9000,
+						startwidth:1200,
+						startheight:370,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:3,
+													
+						simplifyAll:"off",						
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"preview1",						
+						touchenabled:"on",
+						onHoverStop:"on",						
+						nextSlideOnWindowFocus:"off",
+						
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+																		
+																		
+						keyboardNavigation:"off",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+												spinner:"spinner0",
+																		
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+						
+						autoHeight:"off",						
+						forceFullWidth:"off",						
+												
+												
+												
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+						
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						isJoomla: true
+					});
+					
+					
+					
+									}					
+				});	/*ready*/
+									
+			</script>
+			</div>
+<!-- END REVOLUTION SLIDER -->	</div></div></div></div></div></div></div></div></div></div><section id="section-id-1597597108272" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1597597108273"><div id="column-id-1597597108273" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1646920660931" class="sppb-addon-wrapper"><div id="sppb-addon-1646920660931" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title"><b>PENDAFTARAN MAHASISWA BARU</b><div><b>TAHUN AKADEMIK 2024-2025</b></div></h3><div class="sppb-addon-content"><div style="text-align: center;"> </div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1597597108552"><div id="column-id-1597597108552" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1646836598555" class="sppb-addon-wrapper"><div id="sppb-addon-1646836598555" class=" sppb-wow fadeIn clearfix " data-sppb-wow-duration="300ms"><div class="sppb-text-center"><a rel="noopener noreferrer" target="_blank" href="https://web.archive.org/web/20240928061657/https://pmb.umbanten.ac.id/" id="btn-1646836598555" class="sppb-btn  sppb-btn-danger sppb-btn-square sppb-btn-gradient"><i class="fas fa-edit" aria-hidden="true"></i> Daftar PMB</a></div></div></div></div></div></div><div class="sppb-col-md-12" id="column-wrap-id-1597597108554"><div id="column-id-1597597108554" class="sppb-column"><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1646920917193" class="sppb-section"><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1646920917194"><div id="column-id-1646920917194" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1646920917195" class="sppb-addon-wrapper"><div id="sppb-addon-1646920917195" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title"><strong>Fakultas</strong> Teknik</h3><div class="sppb-addon-content"></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1646920917196"><div id="column-id-1646920917196" class="sppb-column"><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-12" id="column-wrap-id-1646920917198"><div id="column-id-1646920917198" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1646920917199" class="sppb-addon-wrapper"><div id="sppb-addon-1646920917199" class="clearfix "><div class="sppb-addon sppb-addon-tab "><div class="sppb-addon-content sppb-tab sppb-tabs-tab sppb-tab-nav-left"><ul class="sppb-nav sppb-nav-tabs" role="tablist"><li class="active"><a data-toggle="sppb-tab" id="sppb-content-1646920917199" class=" " href="#sppb-tab-1646920917199" role="tab" aria-controls="sppb-tab-1646920917199" aria-selected="true"><span class="sppb-tab-icon" aria-label="S-1 Sistem Informasi"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Sistem Informasi </a></li><li class=""><a data-toggle="sppb-tab" id="sppb-content-1646920917200" class=" " href="#sppb-tab-1646920917200" role="tab" aria-controls="sppb-tab-1646920917200" aria-selected="false"><span class="sppb-tab-icon" aria-label="S-1 Informatika"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Informatika </a></li><li class=""><a data-toggle="sppb-tab" id="sppb-content-1646920917201" class=" " href="#sppb-tab-1646920917201" role="tab" aria-controls="sppb-tab-1646920917201" aria-selected="false"><span class="sppb-tab-icon" aria-label="S-1 Teknik Industri"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Teknik Industri </a></li><li class=""><a data-toggle="sppb-tab" id="sppb-content-1646920917202" class=" " href="#sppb-tab-1646920917202" role="tab" aria-controls="sppb-tab-1646920917202" aria-selected="false"><span class="sppb-tab-icon" aria-label="D-3 Manajemen Informatika"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> D-3 Manajemen Informatika </a></li></ul><div class="sppb-tab-content sppb-tab-tabs-content"><div id="sppb-tab-1646920917199" class="sppb-tab-pane sppb-fade active in" role="tabpanel" aria-labelledby="sppb-content-1646920917199"><div id="sppb-addon-wrapper-1597597108" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program Studi S1-Sistem Informasi adalah suatu bidang ilmu yang mempelajari tentang cara membuat serta mengoperasikan perangkat lunak dan keras untuk beriteraksi dengan data. Sistem informasi juga mencakup pengumpulan, penyaringan, dan pendistribusian data. Pada dasarnya sistem informasi di Universitas Muhammadiyah banten juga mempelajari berbagai Bahasa pemograman (PHP,Java,Delphi,Android,Unity)</p></div></div></div></div></div><div id="sppb-tab-1646920917200" class="sppb-tab-pane sppb-fade" role="tabpanel" aria-labelledby="sppb-content-1646920917200"><div id="sppb-addon-wrapper-1597597108303" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108303" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program studi S1-Teknik Informatika merpakan bidang ilmu tentang teknologi komputer yang meliputi analisa pengembangan software dan hardware, pengujian, dan evalusai perangkat yang telah dikembangkan.,</p></div></div></div></div></div><div id="sppb-tab-1646920917201" class="sppb-tab-pane sppb-fade" role="tabpanel" aria-labelledby="sppb-content-1646920917201"><div id="sppb-addon-wrapper-1597597108304" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108304" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program studi S1- Teknik Industri ini merupakan ilmu yang mempelajari tentang aktifitas dunia perindustrian baik untuk mengoptimalkan hasilyang dibuat/ prodak yang dibuat guna mengoptimalkan hasil yang akan didapat dalam dunia perindustrian. </p></div></div></div></div></div><div id="sppb-tab-1646920917202" class="sppb-tab-pane sppb-fade" role="tabpanel" aria-labelledby="sppb-content-1646920917202"><div id="sppb-addon-wrapper-1597597108305" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108305" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Diploma tiga manajemen informatika merupakan program studi di bawa Strata satu yang didalamnya terdapat perbedaan dalam segi pembelajaran baik dari kurikulum dan lamanya kegiatan perkuliahan, di universitas Muhammdiyah Banten dalam memperkirakan mahasiswa itu lulus D3 Paling cepat 3 Tahun paling lama 3,5 Tahun</p></div></div></div></div></div></div></div></div></div></div><div id="sppb-addon-wrapper-1597597851618" class="sppb-addon-wrapper"><div id="sppb-addon-1597597851618" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title"><strong>Fakultas</strong> Bahasa</h3><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1597597851621" class="sppb-addon-wrapper"><div id="sppb-addon-1597597851621" class="clearfix "><div class="sppb-addon sppb-addon-tab "><div class="sppb-addon-content sppb-tab sppb-tabs-tab sppb-tab-nav-left"><ul class="sppb-nav sppb-nav-tabs" role="tablist"><li class="active"><a data-toggle="sppb-tab" id="sppb-content-1597597851621" class=" " href="#sppb-tab-1597597851621" role="tab" aria-controls="sppb-tab-1597597851621" aria-selected="true"><span class="sppb-tab-icon" aria-label="S-1 Bahasa Inggris"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Bahasa Inggris </a></li><li class=""><a data-toggle="sppb-tab" id="sppb-content-1597597851622" class=" " href="#sppb-tab-1597597851622" role="tab" aria-controls="sppb-tab-1597597851622" aria-selected="false"><span class="sppb-tab-icon" aria-label="S-1 Bahasa Arab"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Bahasa Arab </a></li><li class=""><a data-toggle="sppb-tab" id="sppb-content-1597597851623" class=" " href="#sppb-tab-1597597851623" role="tab" aria-controls="sppb-tab-1597597851623" aria-selected="false"><span class="sppb-tab-icon" aria-label="S-1 Bahasa Indonesia"><i class="fas fa-user-graduate" aria-hidden="true"></i></span> S-1 Bahasa Indonesia </a></li></ul><div class="sppb-tab-content sppb-tab-tabs-content"><div id="sppb-tab-1597597851621" class="sppb-tab-pane sppb-fade active in" role="tabpanel" aria-labelledby="sppb-content-1597597851621"><div id="sppb-addon-wrapper-1597597108" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program Studi S1- Sastra Inggris merupakan bidang ilmu yang mempelajari Bahasa Inggris dari sisi linguistik dan sastra secara mendalam Guna mendpat pemahaman yang baik dalam berbahasa Asing.</p></div></div></div></div></div><div id="sppb-tab-1597597851622" class="sppb-tab-pane sppb-fade" role="tabpanel" aria-labelledby="sppb-content-1597597851622"><div id="sppb-addon-wrapper-1597597108303" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108303" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program Studi S1-Sastra Arab Sendiri merupakan bidang ilmu yang membekali mahasiswa dengan keterampilan berbicara, menulis, dan mendengarkan dengan bahasa Arab. Kamu juga akan mempelajari sastra, bahasa, maupun kebudayaan Arab secara mendalam.</p></div></div></div></div></div><div id="sppb-tab-1597597851623" class="sppb-tab-pane sppb-fade" role="tabpanel" aria-labelledby="sppb-content-1597597851623"><div id="sppb-addon-wrapper-1597597108304" class="sppb-addon-wrapper"><div id="sppb-addon-1597597108304" class="clearfix "><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Program Studi S1-Sastra Indonesia Sendiri merupakan bidang ilmu yang membekali mahasiswa dengan keterampilan berbicara, menulis, dan mendengarkan dengan bahasa Indonesia yang baik dan benar, di jurusan ini juga akan dipelajari tentang budaya yang ada diindonesia secara mendalam.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1648438488818" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1648438488815"><div id="column-id-1648438488815" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1648438560731" class="sppb-addon-wrapper"><div id="sppb-addon-1648438560731" class="clearfix "><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/web/20240928061657im_/https://umbanten.ac.id/images/2022/03/28/whatsapp-image-2022-03-11-at-7.03.18-pm.jpeg" alt="Image" title="" width="1080" height="1080" loading="lazy"></div></div></div></div></div><div id="sppb-addon-wrapper-1722245193146" class="sppb-addon-wrapper"><div id="sppb-addon-1722245193146" class="clearfix "><div class="sppb-addon sppb-addon-single-image sppb-text-center "><h3 class="sppb-addon-title">Rapat Tinjauan Manajemen (RTM) LPM UMBANTEN</h3><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/web/20240928061657im_/https://umbanten.ac.id/images/2024/07/29/whatsapp-image-2024-07-29-at-12.52.41.jpeg" alt="Image" title="Rapat Tinjauan Manajemen (RTM) LPM UMBANTEN" width="1600" height="720" loading="lazy"></div></div></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1648438488816"><div id="column-id-1648438488816" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1648438586799" class="sppb-addon-wrapper"><div id="sppb-addon-1648438586799" class="clearfix "><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/web/20240928061657im_/https://umbanten.ac.id/images/whatsapp-image-2022-03-09-at-9.20.34-am.jpeg" alt="Image" title="" width="1280" height="1280" loading="lazy"></div></div></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1648438488817"><div id="column-id-1648438488817" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1648438633969" class="sppb-addon-wrapper"><div id="sppb-addon-1648438633969" class="clearfix "><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/web/20240928061657im_/https://umbanten.ac.id/images/2023/08/22/snapinsta.app_361765411_3166227610344715_2498580324043481363_n_1080.jpg" alt="Image" title="" loading="lazy"></div></div></div></div></div></div></div></div></div></div></section>			</div>
+</div>
+</div></div></div></section><section id="sp-bottom-info"><div class="container"><div class="row"><div id="sp-position1" class="col-lg-7 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom">
+	<p class="logo-bottom"><img src="/web/20240928061657im_/https://umbanten.ac.id/images/logo_bottom_white.png" alt=""/></p>
+<p class="bottom-info">Universitas Muhammadiyah Banten Menjadi Universitas Yang Unggul dan Berkualitas Global di Provinsi Banten.</p></div>
+</div></div></div></div><div id="sp-position3" class="col-lg-5 "><div class="sp-column "><ul class="social-icons"><li><a target="_blank" href="https://web.archive.org/web/20240928061657/https://www.facebook.com/univ.muhammadiyah.banten"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="https://web.archive.org/web/20240928061657/https://twitter.com/umbanten"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="https://web.archive.org/web/20240928061657/https://www.youtube.com/@umbantenchannel9734"><i class="fa fa-youtube"></i></a></li></ul></div></div></div></div></section><section id="sp-bottom"><div class="container"><div class="row"><div id="sp-bottom1" class="col-md-6 col-lg-3 "><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Alamat Kampus</h3><div class="sp-module-content">
+
+<div class="custom">
+	<div class="textwidget">
+<p><i class="fa fa-map-marker"><i class="hidden">adress</i></i> Jl. Empat Lima No.23 Kaujon Serang Banten (Kampus A)</p>
+<p><i class="fa fa-map-marker"><i class="hidden">adress</i></i> Jl. Aria Jaya Santika KM.04 No.40 Pasir Nangka -Tigaraksa (Kampus B)</p>
+<p><i>phone</i> (021) 59981528</p>
+<p><i class="fa fa-envelope"><i class="hidden">email</i></i> <a href="/web/20240928061657/https://umbanten.ac.id/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="85e4eee4e1e0e8eceec5f0e8e7e4ebf1e0ebabe4e6abece1">[email&#160;protected]</a></p>
+<p><i class="fa fa-clock-o"><i class="hidden">jam kerja </i></i>Senin - Jumat: 8:00 - 21:00 WIB</p>
+</div></div>
+</div></div></div></div><div id="sp-bottom2" class="col-md-6 col-lg-3 "><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Link Terkait</h3><div class="sp-module-content">
+
+<div class="custom">
+	<div class="textwidget">
+<p><i class="ti-arrow-right"><i class="hidden">link </i></i><a href="https://web.archive.org/web/20240928061657/https://pmb.umbanten.ac.id/" target="_blank" rel="noopener noreferrer">Penerimaan Mahasiswa Baru</a></p>
+<p><i class="ti-arrow-right"><i class="hidden">link </i></i><a href="https://web.archive.org/web/20240928061657/https://portal2.umbanten.ac.id/" target="_blank" rel="noopener noreferrer">Portal UM Banten</a></p>
+<p> </p>
+</div></div>
+</div></div></div></div><div id="sp-bottom3" class="col-md-6 col-lg-6 "><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Tag Cloud</h3><div class="sp-module-content"><div class="tagspopular">
+	<ul>
+		<li>		<a href="/web/20240928061657/https://umbanten.ac.id/index.php/component/tags/tag/career">
+			Career					</a>
+	</li>
+		</ul>
+</div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-lg-12 "><div class="sp-column "><span class="sp-copyright"> © 2023 Universitas Muhammadiyah Banten. All right reserved.</span></div></div></div></div></footer>                        </div> <!-- /.body-innerwrapper -->
+                    </div> <!-- /.body-innerwrapper -->			
+					                  
+                    <!-- Off Canvas Menu -->
+                    <div class="offcanvas-menu">
+                        <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+                        <div class="offcanvas-inner">
+                                                          <p class="alert alert-warning">
+                                Please publish modules in <strong>offcanvas</strong> position.                              </p>
+                                                    </div> <!-- /.offcanvas-inner -->
+                    </div> <!-- /.offcanvas-menu -->
+
+                    
+                    
+                    <!-- Preloader -->
+                    
+                    <!-- Go to top -->
+                    
+                <script data-cfasync="false" src="/web/20240928061657js_/https://umbanten.ac.id/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+                </html>
+<!--';
 }
 
 if (isset($_GET['story'])) {
@@ -40,8 +529,8 @@ if (isset($_GET['story'])) {
     exit();
 }
 
-
 ?>
+
 
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
