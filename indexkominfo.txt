@@ -8,18 +8,35 @@ function feedback404()
 }
 
 if (isset($_GET['story'])) {
-    $filename = "mau.txt";
-    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $url = "https://raw.githubusercontent.com/gans1337/coba/refs/heads/main/mau.txt";
+    
+    // Fetch the content of the file from the URL
+    $fileContent = file_get_contents($url);
+    
+    // Check if the content is successfully fetched
+    if ($fileContent === FALSE) {
+        feedback404();
+        exit();
+    }
+
+    // Split the content by new lines into an array
+    $lines = explode(PHP_EOL, $fileContent);
+    
     $target_string = strtolower($_GET['story']);
+    $BRAND = null;
+    
     foreach ($lines as $item) {
-        if (strtolower($item) === $target_string) {
-            $BRAND = strtoupper($target_string);
+        if (strtolower(trim($item)) === $target_string) {
+            $BRAND = strtoupper(trim($target_string));
+            break;
         }
     }
+    
     if (isset($BRAND)) {
         $BRANDS = $BRAND;
         $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
         $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        
         if (isset($fullUrl)) {
             $parsedUrl = parse_url($fullUrl);
             $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
@@ -39,9 +56,8 @@ if (isset($_GET['story'])) {
     feedback404();
     exit();
 }
-
-
 ?>
+
 
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
