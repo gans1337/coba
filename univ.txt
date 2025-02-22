@@ -1,30 +1,30 @@
+
+<!-- Script Landing Page -->
 <!DOCTYPE HTML>
-<html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
+<html xmlns:wormhole="https://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title>Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D </title>
-  <meta name="description" content="Bangsawan88 sesuatu pusat permainan link bola online 4D yang sangat gacor. Login Permainan yang mudah di mainkan slot gacor. dijaminkan kemenangan hanya di Bangsawan88!!" />
+  <title>Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025</title>
+  <meta name="description" content="Bangsawan88 sesuatu permainan link slot gacor 4D dan bola online yang sangat gacor terbaru 2025. Pusat login mix parlay yang tidak di ragukan ke-gacorannya. dijaminkan kemenangan hanya di Bangsawan88!!" />
   <meta name="search engines" content="Aeiwi, Alexa, AllTheWeb, AltaVista, AOL Netfind, Anzwers, Canada, DirectHit, EuroSeek, Excite, Overture, Go, Google, HotBot, InfoMak, Kanoodle, Lycos, MasterSite, National Directory, Northern Light, SearchIt, SimpleSearch, WebsMostLinked, WebTop, What-U-Seek, AOL, Yahoo, WebCrawler, Infoseek, Excite, Magellan, LookSmart, bing, CNET, Googlebot">
-  <meta name="keywords" content="bintaro88, slot gacor, link slot, slot demo, pragmatic play">
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-  <meta name="data-spm" content="a2o4j" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="data-spm" content="a2o4j" />  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://universitasichsansatya.ac.id"/>
-  <meta name="og:title" content="Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D " />
-  <meta name="og:type" content="Slot Gacor" />
+  <meta name="og:url" content="https://www.universitasichsansatya.ac.id/profile"/>
+  <meta name="og:title" content="Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025" />
+  <meta name="og:type" content="Slot Thailand" />
   <meta name="language" content="Indonesia">
   <meta name="geo.region" content="ID">
   <meta name="geo.placename" content="Indonesia">
-  <meta name="og:description" content="Bangsawan88 sesuatu pusat permainan link bola online 4D yang sangat gacor. Login Permainan yang mudah di mainkan slot gacor. dijaminkan kemenangan hanya di Bangsawan88!!" />
-  <meta name="og:image" content="https://i.pinimg.com/736x/30/3b/60/303b601bbc56094c00d14ea50e1c1c84.jpg?updatedAt=1738660465200" />
+  <meta name="og:description" content="Bangsawan88 sesuatu permainan link slot gacor 4D dan bola online yang sangat gacor terbaru 2025. Pusat login mix parlay yang tidak di ragukan ke-gacorannya. dijaminkan kemenangan hanya di Bangsawan88!!" />
+  <meta name="og:image" content="https://i.pinimg.com/736x/f2/ee/97/f2ee97f1325bde40c77596ce37f218e0.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://i.pinimg.com/736x/4c/49/0d/4c490d1d927e306ac3e368733ba24214.jpg" />
-  <link rel="canonical" href="https://universitasichsansatya.ac.id" />
+  <link rel="shortcut icon" href="https://i.pinimg.com/736x/90/60/50/906050ef42e788e84e1ac874fff4bd61.jpg" />
+  <link rel="canonical" href="https://www.universitasichsansatya.ac.id/profile" />
   <link rel="amphtml" href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html" />
   <!-- start preload -->
-  <link rel="preload" href="https://i.pinimg.com/736x/30/3b/60/303b601bbc56094c00d14ea50e1c1c84.jpg?updatedAt=1738660465200" as="image" />
-  <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
+  <link rel="preload" href="https://i.pinimg.com/736x/f2/ee/97/f2ee97f1325bde40c77596ce37f218e0.jpg" as="image" />
+  <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />   
   <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
   <link rel="preconnect dns-prefetch" href="https://laz-img-cdn.alicdn.com" />
@@ -73,7 +73,7 @@
       };
       var getRand = function () {
         var page_id = get_cookie('cna') || '001';
-        page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, '');
+        page_id = page_id.toLowerCase().replace(/[^a-zd]/g, '');
         page_id = page_id.substring(0, 16);
         var d = (new Date()).getTime();
         var randend = [
@@ -118,7 +118,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D \",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -553,8 +553,7 @@
     <path
       d="M704 128c-72.533333 0-145.066667 34.133333-192 89.6-46.933333-55.466667-119.466667-89.6-192-89.6-132.266667 0-234.666667 102.4-234.666667 234.666667 0 162.133333 145.066667 294.4 362.666667 490.666666l64 55.466667 64-55.466667c217.6-200.533333 362.666667-332.8 362.666667-490.666666 0-132.266667-102.4-234.666667-234.666667-234.666667z"
       fill="#939598"></path>
-  </symbol>
-  <symbol id="lazadaicon_mute" viewBox="0 0 1024 1024">
+  </symbol><symbol id="lazadaicon_mute" viewBox="0 0 1024 1024">
     <path
       d="M1024 451.142621l-63.346759-63.329104-89.15862 89.176276-89.193931-89.158621-63.382069 63.311449 89.229241 89.193931-89.229241 89.193931 63.346758 63.329103 89.229242-89.193931 89.15862 89.193931L1024 629.530483l-89.193931-89.193931zM0 280.364138v463.271724h227.116138L647.062069 1019.003586V4.996414L227.186759 280.364138H0z m94.119724 94.119724h99.998897V649.533793H94.102069V374.466207zM552.96 844.729379l-264.686345-173.550345v-318.322758l264.686345-173.585655v665.458758z">
     </path>
@@ -632,46 +631,46 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D ","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://universitasichsansatya.ac.id"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Bangsawan88 sesuatu pusat permainan link bola online 4D yang sangat gacor. Login Permainan yang mudah di mainkan slot gacor. dijaminkan kemenangan hanya di Bangsawan88!!","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://www.universitasichsansatya.ac.id/profile"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Bangsawan88 sesuatu permainan link slot gacor 4D dan bola online yang sangat gacor terbaru 2025. Pusat login mix parlay yang tidak di ragukan ke-gacorannya. dijaminkan kemenangan hanya di Bangsawan88!!","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [{
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://universitasichsansatya.ac.id",
-            "name": "SLOT GACOR"
+            "@id": "https://www.universitasichsansatya.ac.id/profile",
+            "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://universitasichsansatya.ac.id",
-            "name": "SLOT THAILAND"
+            "@id": "https://www.universitasichsansatya.ac.id/profile",
+            "name": "Slot Thailand"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://universitasichsansatya.ac.id",
-            "name": "Slot Gacor Malam Ini"
+            "@id": "https://www.universitasichsansatya.ac.id/profile",
+            "name": "Slot Server Thailand"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://universitasichsansatya.ac.id",
-            "name": "Mudah Maxwin"
+            "@id": "https://www.universitasichsansatya.ac.id/profile",
+            "name": "Link Slot Dana"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://universitasichsansatya.ac.id",
-            "name": "Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D "
+            "@id": "https://www.universitasichsansatya.ac.id/profile",
+            "name": "Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025"
           }
         }]
       }
@@ -714,7 +713,7 @@
     };
     var getRand = function () {
       var page_id = get_cookie('cna') || '001';
-      page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, '');
+      page_id = page_id.toLowerCase().replace(/[^a-zd]/g, '');
       page_id = page_id.substring(0, 16);
       var d = (new Date()).getTime();
       var randend = [
@@ -773,11 +772,10 @@
                     <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Masukan</a>
+                      <a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BANGSAWAN88</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span>Lebih Murah Di App</span>
-                        <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
+                        <span>BANGSAWAN88 LOGIN</span><div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
       <div class="get-the-app">
@@ -811,10 +809,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="https://universitasichsansatya.ac.id" class="store-link">
+          <a href="https://www.universitasichsansatya.ac.id/profile" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="https://universitasichsansatya.ac.id" class="store-link">
+          <a href="https://www.universitasichsansatya.ac.id/profile" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -824,10 +822,10 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">MENJADI SELLER</a>
+                    <a class="cyan" href="https://pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">BANGSAWAN88 DAFTAR</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span>customer care</span>
+                      <span>SLOT GACOR</span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
@@ -878,12 +876,12 @@
 </div>
                     </div>
                   <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span>SLOT GACOR</span>
+                    <span>MIX PARLAY</span>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
     </div>
-    <div class="track-title">LACAK PESANAN</div>
+    <div class="track-title">MIX PARLAY</div>
     <form class="track-order-form" id="topActionTrackForm">
       <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
       <div class="top-input-wrap track-order-input-wrap">
@@ -892,7 +890,7 @@
           <i class="icon icon-arrow-on-button"></i>
         </button>
       </div>
-      <p class="track-order-more-text">SLOT GACOR<a href="https://www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
     </form>
     <div class="error-message" id="topActionTrackErrorMsg"></div>
   </div>
@@ -921,7 +919,7 @@
           </li>
           <li class="account-item">
                 <a href="https://my.lazada.co.id/wishlist/index" class="account-item-anchor">
-                    <span class="account-icon test wishlist"></span>SLOT GACOR
+                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
@@ -936,7 +934,7 @@
           </li>
           <li class="account-item">
                 <a href="https://member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
-                    <span class="account-icon test logout"></span>SLOT GACOR
+                    <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
       </ul>
@@ -956,7 +954,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://universitasichsansatya.ac.id">
+            <a href="https://www.universitasichsansatya.ac.id/profile">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -965,12 +963,12 @@
     <ul class="lzd-site-menu-root" data-spm="cate">
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
             <a> 
-                        <span>SLOT GACOR</span>
+                        <span>Peralatan Elektronik</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
             <a> 
-                        <span>SLOT GACOR</span>
+                        <span>Aksesoris Elektronik</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
@@ -1031,7 +1029,7 @@
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
                 <a href="https://www.lazada.co.id/shop-beli-laptop/">
-                    <span>SLOT GACOR</span>
+                    <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://www.lazada.co.id/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-2-in-1/"}]
@@ -1065,8 +1063,7 @@
                 <a href="https://www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
-                        <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://www.lazada.co.id/jual-walkie-talkie/"}]</script>
+                        <script type="text" class="J_data_0_5">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://www.lazada.co.id/jual-walkie-talkie/"}]</script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
                 <a href="https://www.lazada.co.id/beli-tablet-2">
@@ -1122,8 +1119,7 @@
                         <script type="text" class="J_data_1_5">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://www.lazada.co.id/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://www.lazada.co.id/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://www.lazada.co.id/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://www.lazada.co.id/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-external-solid-state-drive/"}]
                         </script>
-            </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+            </li><li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
                 <a href="https://www.lazada.co.id/beli-printers/">
                     <span>Printer</span>
                 </a>
@@ -1241,8 +1237,7 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
                 <a href="https://www.lazada.co.id/sepatu-pria/">
                     <span>Sepatu Pria</span>
-                </a>
-                        <script type="text" class="J_data_3_3">
+                </a><script type="text" class="J_data_3_3">
                             [{"childCategoryName":"Boots","childCategoryUrl":"https://www.lazada.co.id/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://www.lazada.co.id/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://www.lazada.co.id/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://www.lazada.co.id/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.lazada.co.id/sneakers-pria/"}]
                         </script>
             </li>
@@ -1410,8 +1405,7 @@
                     <span>Suplemen Makanan</span>
                 </a>
                         <script type="text" class="J_data_5_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.lazada.co.id/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.lazada.co.id/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.lazada.co.id/beli-protein"}]
-                        </script>
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.lazada.co.id/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.lazada.co.id/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.lazada.co.id/beli-protein"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
                 <a href="https://www.lazada.co.id/beli-alat-medis/">
@@ -1977,33 +1971,33 @@
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/Situs?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Situs" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-10.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">LazMall</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Situs">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Situs</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-9.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
+                        <span class="lzd-menu-labels-item-text">Slot</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-8.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
+                        <span class="lzd-menu-labels-item-text">Gacor</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                    <img alt="Bangsawan88" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/9174453f-455e-4e30-87d2-bd90239e6994-removebg-preview.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">LazBlog</span>
+                <span class="lzd-menu-labels-item-text">Bangsawan88</span>
             </a>
         </nav>
     </div>
@@ -2023,7 +2017,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://universitasichsansatya.ac.id">
+            <a href="https://www.universitasichsansatya.ac.id/profile">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -2061,8 +2055,7 @@
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
-            <a> 
-                    <span>Bayi &amp; Mainan</span>
+            <a><span>Bayi &amp; Mainan</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
@@ -3039,33 +3032,33 @@
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/Situs?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Situs" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-10.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">LazMall</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Situs">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Situs</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id">
+            <a class="lzd-menu-labels-item" href="https://www.universitasichsansatya.ac.id/profile">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-9.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
+                        <span class="lzd-menu-labels-item-text">Slot</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id">
+            <a class="lzd-menu-labels-item" href="https://www.universitasichsansatya.ac.id/profile">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/image-removebg-preview-8.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
+                        <span class="lzd-menu-labels-item-text">Gacor</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id">
+            <a class="lzd-menu-labels-item" href="https://www.universitasichsansatya.ac.id/profile">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                    <img alt="Bangsawan88" class="lzd-site-nav-menu-iconfont-img" src="https://deallect.pro/img/9174453f-455e-4e30-87d2-bd90239e6994-removebg-preview.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">LazBlog</span>
+                <span class="lzd-menu-labels-item-text">Bangsawan88</span>
             </a>
         </nav>
     </div>
@@ -3091,9 +3084,9 @@ var lzdDocCookies = {
       decodeURIComponent(
         document.cookie.replace(
           new RegExp(
-            '(?:(?:^|.*;)\\s*' +
-              encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&') +
-              '\\s*\\=\\s*([^;]*).*$)|^.*$'
+            '(?:(?:^|.*;)\s*' +
+              encodeURIComponent(sKey).replace(/[-.+*]/g, '\$&') +
+              '\s*\=\s*([^;]*).*$)|^.*$'
           ),
           '$1'
         )
@@ -3101,7 +3094,7 @@ var lzdDocCookies = {
     );
   },
   setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-    if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+    if (!sKey || /^(?:expires|max-age|path|domain|secure)$/i.test(sKey)) {
       return false;
     }
     var sExpires = '';
@@ -3122,9 +3115,9 @@ var lzdDocCookies = {
     if (!sKey) {return false;
     }
     return new RegExp(
-      '(?:^|;\\s*)' +
-        encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&') +
-        '\\s*\\='
+      '(?:^|;\s*)' +
+        encodeURIComponent(sKey).replace(/[-.+*]/g, '\$&') +
+        '\s*\='
     ).test(document.cookie);
   },
   removeItem: function(sKey, sPath, sDomain) {
@@ -3327,8 +3320,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy"class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D " src="https://i.pinimg.com/736x/30/3b/60/303b601bbc56094c00d14ea50e1c1c84.jpg?updatedAt=1738660465200"/></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D </h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="12anj4u.pdp_revamp.0.0">8.882.881 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://universitasichsansatya.ac.id">SLOT GACOR</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p><a href="https://wk168.pro/defend88">BANGSAWAN88</a> merupakan slot gacor terpercaya pada permainan pragmatic play pada provider slot88. Daftar segera akun slot gacor mudah menang hanya di bangsawan88!!</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000.00</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-50%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"><div class="delivery"><div class="delivery-header"><div class="delivery-header__title" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i1.502946e9Rasjau">Pilihan pengiriman&nbsp;</div><div class="delivery-header__tooltip"><div><i class="delivery-tooltip__icon"><span><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_tooltip"></use></svg></span></i></div></div></div><div class="delivery__header"><div class="location delivery__location"><div class="location__current"><div class="location__body"><i class="location__icon"><span><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i2.502946e9Rasjau"><use xlink:href="#lazadaicon_location"></use></svg></span></i><div class="location__address">DKI Jakarta, Kota Jakarta Barat, Cengkareng</div><div class="location__link-change"><a class="location-link location-link_size_xs automation-location-link-change">UBAH</a></div></div></div></div></div><div class="delivery__content"><div class="delivery__options"><div class="delivery__option"><div class="delivery-option-item delivery-option-item_type_standard"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_standard"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_standard"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Standar</div><div class="delivery-option-item__time">Dijamin tiba 10 Nov - 12 Nov. Dapatkan LazRewards Rp10.000 jika pesananmu terlambat</div></div><div class="delivery-option-item__shipping-fee no-subtitle">Rp18.000</div></div></div></div><div class="delivery__option"><div class="delivery-option-item delivery-option-item_type_COD"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_shipping"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_shipping" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i0.502946e9Rasjau"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Bayar di tempat berlaku</div></div><div class="delivery-option-item__shipping-fee no-subtitle"></div></div></div></div></div></div></div></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"><div class="warranty" data-spm="return_warranty" data-nosnippet="true"><div class="delivery-header"><div class="delivery-header__title">Pengembalian &amp; Garansi&nbsp;</div><div class="delivery-header__tooltip"><div><i class="delivery-tooltip__icon"><span><svgclass="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_tooltip"></use></svg></span></i></div></div></div><div class="warranty__options"><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_change_mind_available"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><imgsrc="https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01HLFg791eRalDVt0XN_!!6000000003868-2-tps-54-54.png" width="24"></i><div class="delivery-option-item__info"><div class="delivery-option-item__title" data-spm-anchor-id="a2o4j.pdp_revamp.return_warranty.i0.502946e9Rasjau">Berubah Pikiran</div></div></div></div></div><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_returnPolicy7"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_7days"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_7days"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">7 Hari Gratis Pengembalian</div></div></div></div></div><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_noWarranty"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_nowarranty"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_nowarranty"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Tidak ada garansi</div></div></div></div></div></div></div></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div>
-    <div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh</div><div class="seller-name__detail" data-spm="seller"><a href="https://universitasichsansatya.ac.id">SLOT GACOR</a><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"><div class="info-content" data-spm-anchor-id="a2o4j.pdp_revamp.seller.i0.502946e9Rasjau"><div class="seller-info-title">Rating Toko</div><div class="seller-info-value rating-positive ">98%</div></div><div class="info-content"><div class="seller-info-title">Pengiriman Tepat Waktu</div><div class="seller-info-value ">100%</div></div><div class="info-content"><div class="seller-info-title">Chat Dibalas</div><div class="seller-info-value ">100%</div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy"class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025" src="https://i.pinimg.com/736x/f2/ee/97/f2ee97f1325bde40c77596ce37f218e0.jpg"/></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Bangsawan88 : Pusat Login Link Mix Parlay Bola Online Slot Gacor 4D Terbaru 2025</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="12anj4u.pdp_revamp.0.0">2.311.123 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">9.988.889<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.universitasichsansatya.ac.id/profile">Slot Gacor</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>Bangsawan88 sesuatu permainan link slot gacor 4D dan bola online yang sangat gacor terbaru 2025. Pusat login mix parlay yang tidak di ragukan ke-gacorannya. dijaminkan kemenangan hanya di Bangsawan88!!</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdUG5ius">Rp.150.000 NEW MEMBER</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.89.000</span><span class="pdp-product-price__discount">-78%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"><div class="delivery"><div class="delivery-header"><div class="delivery-header__title" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i1.502946e9Rasjau">Pilihan pengiriman&nbsp;</div><div class="delivery-header__tooltip"><div><i class="delivery-tooltip__icon"><span><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_tooltip"></use></svg></span></i></div></div></div><div class="delivery__header"><div class="location delivery__location"><div class="location__current"><div class="location__body"><i class="location__icon"><span><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i2.502946e9Rasjau"><use xlink:href="#lazadaicon_location"></use></svg></span></i><div class="location__address">SLOT GACOR, Kota Bangsawan88 Utara, MIX PARLAY</div><div class="location__link-change"><a class="location-link location-link_size_xs automation-location-link-change">UBAH</a></div></div></div></div></div><div class="delivery__content"><div class="delivery__options"><div class="delivery__option"><div class="delivery-option-item delivery-option-item_type_standard"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_standard"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_standard"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Standar</div><div class="delivery-option-item__time">Dijamin tiba 10 Nov - 12 Nov. Dapatkan LazRewards Rp10.000 jika pesananmu terlambat</div></div><div class="delivery-option-item__shipping-fee no-subtitle">Rp99.808</div></div></div></div><div class="delivery__option"><div class="delivery-option-item delivery-option-item_type_COD"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_shipping"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_shipping" data-spm-anchor-id="a2o4j.pdp_revamp.delivery_options.i0.502946e9Rasjau"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Bayar di tempat berlaku</div></div><div class="delivery-option-item__shipping-fee no-subtitle"></div></div></div></div></div></div></div></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"><div class="warranty" data-spm="return_warranty" data-nosnippet="true"><div class="delivery-header"><div class="delivery-header__title">Pengembalian &amp; Garansi&nbsp;</div><div class="delivery-header__tooltip"><div><i class="delivery-tooltip__icon"><span><svgclass="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_tooltip"></use></svg></span></i></div></div></div><div class="warranty__options"><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_change_mind_available"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><imgsrc="https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01HLFg791eRalDVt0XN_!!6000000003868-2-tps-54-54.png" width="24"></i><div class="delivery-option-item__info"><div class="delivery-option-item__title" data-spm-anchor-id="a2o4j.pdp_revamp.return_warranty.i0.502946e9Rasjau">Berubah Pikiran</div></div></div></div></div><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_returnPolicy7"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_7days"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_7days"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">7 Hari Gratis Pengembalian</div></div></div></div></div><div class="warranty__option-item"><div class="delivery-option-item delivery-option-item_type_noWarranty"><div class="delivery-option-item__body"><i class="delivery-option-item__icon"><span class="lzd-svg-icon lzd-svg-icon_name_nowarranty"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_nowarranty"></use></svg></span></i><div class="delivery-option-item__info"><div class="delivery-option-item__title">Tidak ada garansi</div></div></div></div></div></div></div></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div>
+    <div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh</div><div class="seller-name__detail" data-spm="seller"><a href="https://www.universitasichsansatya.ac.id/profile">Bangsawan88</a><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"><div class="info-content" data-spm-anchor-id="a2o4j.pdp_revamp.seller.i0.502946e9Rasjau"><div class="seller-info-title">Rating Toko</div><div class="seller-info-value rating-positive ">98%</div></div><div class="info-content"><div class="seller-info-title">Pengiriman Tepat Waktu</div><div class="seller-info-value ">100%</div></div><div class="info-content"><div class="seller-info-title">Chat Dibalas</div><div class="seller-info-value ">100%</div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script type="5e90a40a2a274c6f57d2d593-text/javascript">
@@ -3831,7 +3824,7 @@ var gConfig = window.g_config || {};
                       </a>
       </div>
       <div class="pull-left"> 
-                          <a href="https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+                          <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
                           <img class="img-verify img-pointer" src="https://img.lazcdn.com/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
                       </a>
       </div>
@@ -3876,7 +3869,7 @@ var gConfig = window.g_config || {};
               </div>
               <div class="lzd-footer-width-25">
               <div class="lzd-footer-copyright">
-              © SLOT GACOR 2024
+              © Slot Gacor
               </div>
               </div>
           </div>
@@ -3884,6 +3877,7 @@ var gConfig = window.g_config || {};
 </section>
 <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="5e90a40a2a274c6f57d2d593-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8fee63044b9b3e00","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"92bd15c141134710b4642d84b8c3c429"}' crossorigin="anonymous"></script>
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'900fcae4ad1eb5e1',t:'MTczNjcxMjY1My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"900fcae4ad1eb5e1","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.1.0","token":"e2a765f324f4412da187da8b414d804f"}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"901dbe22a8f6fdc1","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.1.0","token":"e2a765f324f4412da187da8b414d804f"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'901d03fc7c4cee36',t:'MTczNjg1MTMwNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"901d03fc7c4cee36","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.1.0","token":"e2a765f324f4412da187da8b414d804f"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'915d73c40f37b5ce',t:'MTc0MDIxMTMzMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"915d73c40f37b5ce","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.1.0","token":"e2a765f324f4412da187da8b414d804f"}' crossorigin="anonymous"></script>
 </body>
 </html>
