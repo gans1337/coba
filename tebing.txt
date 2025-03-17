@@ -3,16 +3,16 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER</title>
-        <meta name="description" content="Bangsawan88 adalah link Mix Parlay bola online 368 yang memberikan bocoran untuk new member. Kamu bisa menikmati taruhan bola online 368 dengan prediksi yang lebih akurat dan peluang menang yang lebih tinggi. Gabung dan menangkan taruhan dengan bocoran di Bangsawan88." />
+        <title>BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ</title>
+        <meta name="description" content="Bangsawan88 adalah situs mix Parlay bola online 365 yang memberikan bocoran. Kamu bisa menikmati taruhan bola online 365 dengan prediksi yang lebih akurat bersama Bangsawan88." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://sikemas.tebingtinggikota.go.id/" />
-        <meta name="og:title" content="BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER" />
+        <meta name="og:title" content="BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="Bangsawan88 adalah link Mix Parlay bola online 368 yang memberikan bocoran untuk new member. Kamu bisa menikmati taruhan bola online 368 dengan prediksi yang lebih akurat dan peluang menang yang lebih tinggi. Gabung dan menangkan taruhan dengan bocoran di Bangsawan88." />
-        <meta name="keywords" content="Bangsawan88, mix parlay, bola online, situs bola online, mixparlay, bolaonline, bola online 2025">
+        <meta name="og:description" content="Bangsawan88 adalah situs mix Parlay bola online 365 yang memberikan bocoran. Kamu bisa menikmati taruhan bola online 365 dengan prediksi yang lebih akurat bersama Bangsawan88." />
+        <meta name="keywords" content="Bangsawan88, bangsawan88 login, mix parlay, bola online, situs bola online, mixparlay, bolaonline">
         <meta name="og:image" content="https://sikemas.tebingtinggikota.go.id/media/images/bg-registration.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://cdn-b.heylink.me/media/links/thumbnails/61184233fbae438c8ad36b5f3714b2b3.webp" />
@@ -128,7 +128,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://sikemas.tebingtinggikota.go.id/media/images/bg-registration.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://sikemas.tebingtinggikota.go.id/media/images/bg-registration.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -853,13 +853,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER",
+                "name": "BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://sikemas.tebingtinggikota.go.id/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "Bangsawan88 adalah link Mix Parlay bola online 368 yang memberikan bocoran untuk new member. Kamu bisa menikmati taruhan bola online 368 dengan prediksi yang lebih akurat dan peluang menang yang lebih tinggi. Gabung dan menangkan taruhan dengan bocoran di Bangsawan88.",
+                "description": "Bangsawan88 adalah situs mix Parlay bola online 365 yang memberikan bocoran. Kamu bisa menikmati taruhan bola online 365 dengan prediksi yang lebih akurat bersama Bangsawan88.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -914,7 +914,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://sikemas.tebingtinggikota.go.id/",
-                            "name": "BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER"
+                            "name": "BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ"
                         }
                     }
                 ]
@@ -1028,7 +1028,7 @@
                                         <a target="_blank" href="https://sikemas.tebingtinggikota.go.id/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">bangsawan88</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://sikemas.tebingtinggikota.go.id/">bola online</a></span>
+                                        <span><a href="https://sikemas.tebingtinggikota.go.id/">Bangsawan Login</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -3663,7 +3663,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3738,14 +3738,8 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">BANGSAWAN88 ✪ LINK BOCORAN MIX PARLAY BOLA ONLINE 368 BONUS NEW MEMBER</h1>
-                                            <p><a href="https://sikemas.tebingtinggikota.go.id/">Bangsawan88</a> adalah link  <a href="https://sikemas.tebingtinggikota.go.id/">Mix Parlay</a> bola online 368 yang memberikan bocoran untuk new member. Kamu bisa menikmati taruhan bola online 368 dengan prediksi yang lebih akurat dan peluang menang yang lebih tinggi. Gabung dan menangkan taruhan dengan bocoran di Bangsawan88. Keunggulan Bangsawan88:
-Bocoran Mix Parlay Terpercaya – Prediksi jitu untuk meningkatkan peluang kemenangan kamu di setiap taruhan.
-Bonus New Member – Dapatkan bonus spesial yang akan memperbesar modal taruhan kamu saat baru bergabung.
-Taruhan Bola Online 368 – Pilihan taruhan bola lengkap dengan odds terbaik dari berbagai liga top dunia.
-Transaksi Cepat & Aman – Deposit dan penarikan mudah dengan metode pembayaran yang fleksibel.
-Layanan Pelanggan 24/7 – Tim support siap membantu kamu kapan saja agar permainan tetap lancar.
-Bergabunglah di Bangsawan88 sekarang, dapatkan bocoran mix parlay terbaru, dan raih kemenangan besar dengan bonus new member yang menarik!</p>
+                                            <h1 class="w-80">BANGSAWAN88 ♝ SITUS MIX PARLAY BOCORAN BOLA ONLINE 365 ᯓBANGSAWAN88ᯓ</h1>
+                                            <p><a href="https://sikemas.tebingtinggikota.go.id/">Bangsawan88</a> adalah situs <a href="https://sikemas.tebingtinggikota.go.id/">mix parlay</a> <a href="https://sikemas.tebingtinggikota.go.id/">bola online</a> 365 yang memberikan bocoran. Kamu bisa menikmati taruhan <a href="https://sikemas.tebingtinggikota.go.id/">bola online</a> 365 dengan prediksi yang lebih akurat bersama <a href="https://sikemas.tebingtinggikota.go.id/">Bangsawan88</a>.</p>
                                            </div>
 
                                         <div class="pdp-product-price" bis_skin_checked="1">
