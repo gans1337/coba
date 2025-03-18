@@ -3,14 +3,14 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88</title>
+        <title>Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88</title>
         <meta name="description" content="Lebaran makin seru dengan THR kemenangan besar dari Bangsawan88! Nikmati slot gacor terbaru yang siap memberikan jackpot kapan saja, terutama di jam-jam hoki ,rekomendasi slot gacor real-time. Main sekarang di Bangsawan88." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
          <meta name="google-site-verification" content="hLoUnHHaJPX5gSVRPpa52Nod8PRQ3S6Y3S9AesOZpRw" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://laporspi.unsika.ac.id/" />
-        <meta name="og:title" content="Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88" />
+        <meta name="og:title" content="Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="Lebaran makin seru dengan THR kemenangan besar dari Bangsawan88! Nikmati slot gacor terbaru yang siap memberikan jackpot kapan saja, terutama di jam-jam hoki ,rekomendasi slot gacor real-time. Main sekarang di Bangsawan88." />
         <meta name="keywords" content="bangsawan88, bangsawan login, slot gacor, link gacor, slot88">
@@ -129,7 +129,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.pinimg.com/originals/5c/04/1a/5c041abaaa5de4d7414862bb90376542.gif","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.pinimg.com/originals/5c/04/1a/5c041abaaa5de4d7414862bb90376542.gif","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -854,7 +854,7 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88",
+                "name": "Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://laporspi.unsika.ac.id/" },
@@ -915,7 +915,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://laporspi.unsika.ac.id/",
-                            "name": "Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88"
+                            "name": "Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88"
                         }
                     }
                 ]
@@ -3664,7 +3664,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Bangsawan88 ♕ Situs Link Slot Gacor Thr Lebaran Terbaru Slot88</h1>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Bangsawan88 # Situs Link Slot Gacor Thr Lebaran Terbaru Slot88</h1>
 												</div>
 												
                                             </div>
