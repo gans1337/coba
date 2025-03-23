@@ -19,7 +19,7 @@
   <meta property="og:image" content="https://universitasichsansatya.ac.id//assets/img/loker/Rumah_Sakit__Brawijaya_Grup.png" />
   <meta property="og:image:width" content="840" />
   <meta property="og:image:height" content="480" />
-  <meta property="product:price:amount" content="999.999.999" />
+  <meta property="product:price:amount" content="999.99" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
   <meta itemprop="name" content="Bangsawan88 🏆 Link Slot Gacor Malam Ini Situs Slot88 Mix parlay Bola Online Terpercaya" />
@@ -62,7 +62,7 @@
   <script
     type="application/ld+json">{"url":"https://universitasichsansatya.ac.id/","name":"BANGSAWAN88","description":"","image":"https://images.squarespace-cdn.com/content/v1/67d03d7ce91bc76cd7c96870/8efcf433-1557-41c9-894a-576d5800f1a5/logo.png","@context":"http://schema.org","@type":"WebSite"}</script>
   <script
-    type="application/ld+json">{"name":"Bangsawan88 🏆 Link Slot Gacor Malam Ini Situs Slot88 Mix parlay Bola Online Terpercaya","image":"https://universitasichsansatya.ac.id//assets/img/loker/Rumah_Sakit__Brawijaya_Grup.png","description":"Bangsawan88 adalah link slot gacor malam ini bola online pada situs slot88 dan mix parlay terpercaya. Sebagai situs gacor terpercaya memberikan kemenangan banjir jackpot terbesar bola online dan mix parlay pada malam ini.","brand":"BANGSAWAN88","offers":{"price":999.999.999,"priceCurrency":"IDR","url":"https://universitasichsansatya.ac.id/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+    type="application/ld+json">{"name":"Bangsawan88 🏆 Link Slot Gacor Malam Ini Situs Slot88 Mix parlay Bola Online Terpercaya","image":"https://universitasichsansatya.ac.id//assets/img/loker/Rumah_Sakit__Brawijaya_Grup.png","description":"Bangsawan88 adalah link slot gacor malam ini bola online pada situs slot88 dan mix parlay terpercaya. Sebagai situs gacor terpercaya memberikan kemenangan banjir jackpot terbesar bola online dan mix parlay pada malam ini.","brand":"BANGSAWAN88","offers":{"price":999.99,"priceCurrency":"IDR","url":"https://universitasichsansatya.ac.id/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
   <link rel="stylesheet" type="text/css"
     href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
   <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -1507,7 +1507,7 @@ footer#footer-sections {
 
 
                           <div class="product-price">
-                            IDR 999.999.999
+                            IDR 999.99
                           </div>
 
 
