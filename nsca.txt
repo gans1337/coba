@@ -1,4 +1,4 @@
-<!-- NOTHUMANSEO IN DA HOUSE -->
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
@@ -6,6 +6,7 @@
         <title>Bangsawan88 > Situs Slot Gacor Demo Agen Mix Parlay Link Terpercaya 2025</title>
         <meta name="description" content="bangsawan88 link agen mix parlay terpercaya pada situs slot gacor yang menyediakan game demo. Menyediakan bocoran pola slot gacor pada permainan slot malam ini di bangsawan88." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <meta name="google-site-verification" content="2WhRZDPonPJ02Hrcv8h1qCsMmcF_79XlADbf8RDxV-U" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://www.nscaacademy.org/" />
