@@ -99,6 +99,7 @@
                 }
             })();
         </script>
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="zNZ2MRZN8iuhbnZGylXJ4A" async></script>
         <style>
             .svgfont {
                 display: inline-block;
