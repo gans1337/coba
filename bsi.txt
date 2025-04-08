@@ -5,14 +5,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-    <title>BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini</title>
+    <title>BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini</title>
     <meta name="description" content="Bangsawan88 menerbitkan situs resmi taruhan mix parlay permainan bolaonline terpercaya dengan akurat prediksi parlay hari ini yang memiliki pengalaman para pecinta bola jangan tinggalkan kesempatannya." />
     <meta name="data-spm" content="BANGSAWAN88" />
     <meta name="robots" content="index, follow" /> 
     <meta name="language" content="Indonesia" />
     <meta name="author" content="BANGSAWAN88" />
     <meta name="og:url" content="https://www.jurnal.poltekkes-bsi.ac.id/" />
-    <meta name="og:title" content="BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini" />
+    <meta name="og:title" content="BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Bangsawan88 menerbitkan situs resmi taruhan mix parlay permainan bolaonline terpercaya dengan akurat prediksi parlay hari ini yang memiliki pengalaman para pecinta bola jangan tinggalkan kesempatannya." />
     <meta name="keywords" content="BANGSAWAN88" />
@@ -125,7 +125,7 @@
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://poltekkes-bsi.ac.id/wp-content/uploads/2025/01/Picture1-4-768x519.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://poltekkes-bsi.ac.id/wp-content/uploads/2025/01/Picture1-4-768x519.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -746,7 +746,7 @@
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini",
+        "name": "BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini",
         "image": "https://poltekkes-bsi.ac.id/wp-content/uploads/2025/01/Picture1-4-768x519.jpg",
         "description": "Bangsawan88 menerbitkan situs resmi taruhan mix parlay permainan bolaonline terpercaya dengan akurat prediksi parlay hari ini yang memiliki pengalaman para pecinta bola jangan tinggalkan kesempatannya.",
         "url": "https://geneng.ngawikab.go.id/",
@@ -860,7 +860,7 @@
           },{
             "@type": "ListItem", 
             "position": 5, 
-            "name": "BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini",
+            "name": "BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini",
             "item": "https://www.jurnal.poltekkes-bsi.ac.id/"  
           }]
         }
@@ -4060,7 +4060,7 @@
                             <div id="module_product_title_1" class="pdp-block module">
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
-                                        <h1 class="pdp-mod-product-badge-title">BANGSAWAN88 🌿 Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini</h1>
+                                        <h1 class="pdp-mod-product-badge-title">BANGSAWAN88 : Situs Resmi Prediksi Mix Parlay Taruhan Bolaonline hari ini</h1>
                                         <div class="n-columns-2">
                                             <a href="https://all-amp.web.app/bsi.html" rel="nofollow noreferrer"
                                                 class="login">LOGIN PRO</a>
