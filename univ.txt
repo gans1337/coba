@@ -1,4 +1,4 @@
-<!-- NOTHUMANSEO IN DA HOUSE -->
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://universitasichsansatya.ac.id/" />
+        <meta name="og:url" content="https://universitasichsansatya.ac.id/profile" />
         <meta name="og:title" content="BINTARO88: Situs Link Slot Gacor Malam Ini Qris Pragmatic Play Online Slot88" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="BINTARO88 mendirikan link slot gacor pada malam ini di pragmatic play di situs slot88 dengan metode qris mainkan keseruan permainan dan jangan tinggalkan kesempatannya." />
@@ -16,7 +16,7 @@
         <meta name="og:image" content="https://universitasichsansatya.ac.id/assets/img/uploads/pemeriksaangratis2-2022.jpeg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://i.pinimg.com/736x/fb/d1/c0/fbd1c0e1e251c907ef909448e6e157f9.jpg" />
-        <link rel="canonical" href="https://universitasichsansatya.ac.id/" />
+        <link rel="canonical" href="https://universitasichsansatya.ac.id/profile" />
         <link rel="amphtml" href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html"" />
         <!-- start preload -->
         <link rel="preload" href="https://universitasichsansatya.ac.id/assets/img/uploads/pemeriksaangratis2-2022.jpeg" as="image" />
@@ -854,7 +854,7 @@
                 "name": "BINTARO88: Situs Link Slot Gacor Malam Ini Qris Pragmatic Play Online Slot88",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://universitasichsansatya.ac.id/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://universitasichsansatya.ac.id/profile" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "BINTARO88 mendirikan link slot gacor pada malam ini di pragmatic play di situs slot88 dengan metode qris mainkan keseruan permainan dan jangan tinggalkan kesempatannya.",
@@ -879,7 +879,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://universitasichsansatya.ac.id/",
+                            "@id": "https://universitasichsansatya.ac.id/profile",
                             "name": "BINTARO88"
                         }
                     },
@@ -887,7 +887,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://universitasichsansatya.ac.id/",
+                            "@id": "https://universitasichsansatya.ac.id/profile",
                             "name": "SLOT QRIS"
                         }
                     },
@@ -895,7 +895,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://universitasichsansatya.ac.id/",
+                            "@id": "https://universitasichsansatya.ac.id/profile",
                             "name": "SLOT88"
                         }
                     },
@@ -903,7 +903,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://universitasichsansatya.ac.id/",
+                            "@id": "https://universitasichsansatya.ac.id/profile",
                             "name": "SLOT GACOR"
                         }
                     },
@@ -911,7 +911,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://universitasichsansatya.ac.id/",
+                            "@id": "https://universitasichsansatya.ac.id/profile",
                             "name": "BINTARO88: Situs Link Slot Gacor Malam Ini Qris Pragmatic Play Online Slot88"
                         }
                     }
@@ -1023,10 +1023,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://universitasichsansatya.ac.id/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BINTARO88</a>
+                                        <a target="_blank" href="https://universitasichsansatya.ac.id/profile" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BINTARO88</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://universitasichsansatya.ac.id/">SLOT GACOR</a></span>
+                                        <span><a href="https://universitasichsansatya.ac.id/profile">SLOT GACOR</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1081,10 +1081,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://universitasichsansatya.ac.id/">SLOT QRIS</a>
+                                        <a class="black" href="https://universitasichsansatya.ac.id/profile">SLOT QRIS</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://universitasichsansatya.ac.id/">LINK GACOR</a></span>
+                                        <span><a href="https://universitasichsansatya.ac.id/profile">LINK GACOR</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1131,7 +1131,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://universitasichsansatya.ac.id/">SLOT88</a></span>
+                                        <span><a href="https://universitasichsansatya.ac.id/profile">SLOT88</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1190,7 +1190,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://universitasichsansatya.ac.id/" data-spm="dhome">
+                                        <a href="https://universitasichsansatya.ac.id/profile" data-spm="dhome">
                                             <img
                                                 src="https://universitasichsansatya.ac.id/assets/img/logo/logo3.png"
                                                 alt="LOGO BINTARO88"
@@ -1213,7 +1213,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://universitasichsansatya.ac.id/">
+                                                        <a href="https://universitasichsansatya.ac.id/profile">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2316,7 +2316,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://universitasichsansatya.ac.id/">
+                                        <a href="https://universitasichsansatya.ac.id/profile">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3353,7 +3353,7 @@
                                     <nav class="lzd-menu-labels" data-spm="menu">
                                         <a
                                             class="lzd-menu-labels-item"
-                                            href="https://universitasichsansatya.ac.id/"
+                                            href="https://universitasichsansatya.ac.id/profile"
                                         >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
@@ -3365,7 +3365,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">BINTARO88</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/">
+                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/profile">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="SLOT88"
@@ -3376,7 +3376,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">SLOT88</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/">
+                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/profile">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="LINK GACOR"
@@ -3387,7 +3387,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">LINK GACOR</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/">
+                                        <a class="lzd-menu-labels-item" href="https://universitasichsansatya.ac.id/profile">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="SLOT GACOR"
@@ -3689,7 +3689,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://universitasichsansatya.ac.id/">SLOT QRIS</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://universitasichsansatya.ac.id/profile">SLOT QRIS</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://univichansatya-ac-id.web.app/AMP-NAIK-SORE-INI.html"">
@@ -3720,7 +3720,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://universitasichsansatya.ac.id/" style="color: #000000">BINTARO88</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://universitasichsansatya.ac.id/profile" style="color: #000000">BINTARO88</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3736,8 +3736,8 @@
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
                                             <h1 class="w-80">BINTARO88: Situs Link Slot Gacor Malam Ini Qris Pragmatic Play Online Slot88</h1>
-                                              <p><a href="https://universitasichsansatya.ac.id/">BINTARO88</a> mendirikan link slot gacor pada malam ini di <a href="https://universitasichsansatya.ac.id/">pragmatic play</a> di situs slot88 dengan metode qris mainkan keseruan permainan dan jangan tinggalkan kesempatannya. Memberikan pengalaman bermain terbaik bagi para pemain. Dengan sistem yang modern dan fitur unggulan, BINTARO88 memastikan bahwa setiap pemain mendapatkan kenyamanan, keamanan, dan peluang menang yang tinggi pada malam ini.</p>                                            <h2>KENAPA HARUS MAIN DI BINTARO88 ?</h2>
-                                            <p>Mendukung <a href="https://universitasichsansatya.ac.id/">SLOT GACOR</a> dengan metode deposit, termasuk <a href="https://universitasichsansatya.ac.id/">QRIS</a>, OVO, Dana, GoPay, dan transfer bank menawarkan ribuan game slot berkualitas, menawarkan berbagai bonus dan promosi menarik, seperti bonus new member, cashback mingguan, dan free spin. Selain itu, tersedia bonus menarik seperti new member di <a href="https://universitasichsansatya.ac.id/">SLOT88</a>, cashback, dan free spin yang meningkatkan peluang jackpot. Keamanan terjamin dengan sistem enkripsi canggih, serta customer service 24/7 siap membantu kapan saja.</p>
+                                              <p><a href="https://universitasichsansatya.ac.id/profile">BINTARO88</a> mendirikan link slot gacor pada malam ini di <a href="https://universitasichsansatya.ac.id/profile">pragmatic play</a> di situs slot88 dengan metode qris mainkan keseruan permainan dan jangan tinggalkan kesempatannya. Memberikan pengalaman bermain terbaik bagi para pemain. Dengan sistem yang modern dan fitur unggulan, BINTARO88 memastikan bahwa setiap pemain mendapatkan kenyamanan, keamanan, dan peluang menang yang tinggi pada malam ini.</p>                                            <h2>KENAPA HARUS MAIN DI BINTARO88 ?</h2>
+                                            <p>Mendukung <a href="https://universitasichsansatya.ac.id/profile">SLOT GACOR</a> dengan metode deposit, termasuk <a href="https://universitasichsansatya.ac.id/profile">QRIS</a>, OVO, Dana, GoPay, dan transfer bank menawarkan ribuan game slot berkualitas, menawarkan berbagai bonus dan promosi menarik, seperti bonus new member, cashback mingguan, dan free spin. Selain itu, tersedia bonus menarik seperti new member di <a href="https://universitasichsansatya.ac.id/profile">SLOT88</a>, cashback, dan free spin yang meningkatkan peluang jackpot. Keamanan terjamin dengan sistem enkripsi canggih, serta customer service 24/7 siap membantu kapan saja.</p>
                                         </div>
 
                                         <div class="pdp-product-price" bis_skin_checked="1">
