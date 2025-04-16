@@ -5,6 +5,7 @@
     <head>
         <meta charset="utf-8" />
         <title>BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</title>
+        <meta name="google-site-verification" content="7aJrZR4Y9q9JO5PWbbpzHIyuHxh0Fd1WoIp-NUJ5FNM" />
         <meta name="description" content="Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
