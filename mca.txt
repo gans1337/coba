@@ -1,25 +1,26 @@
 
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>BANGSAWAN88: Situs Link Slot Gacor Malam Ini Qris Pragmatic Play Online MIX PARLAY</title>
-        <meta name="description" content="Bangsawan88 mendirikan bocoran bolaonline terpercaya di mix parlay login menyediakan fitur terbaru dan mudah kemenangan dalam semua game." />
+        <title>BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</title>
+        <meta name="description" content="Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://report.mcasite.org/?slot=bangsawan88" />
-        <meta name="og:title" content="BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya" />
+        <meta name="og:url" content="https://kepk.universitasalirsyad.ac.id/" />
+        <meta name="og:title" content="BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="Bangsawan88 mendirikan bocoran bolaonline terpercaya di mix parlay login menyediakan fitur terbaru dan mudah kemenangan dalam semua game." />
+        <meta name="og:description" content="Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88." />
         <meta name="keywords" content="BANGSAWAN88 LOGIN, LINK PARLAY, MIX PARLAY, BANGSAWAN88" />
-        <meta name="og:image" content="https://mcasite.org/wp-content/uploads/2025/02/Ramadan_flyer.jpeg" />
+        <meta name="og:image" content="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" />
-        <link rel="canonical" href="https://report.mcasite.org/?slot=bangsawan88" />
+        <link rel="canonical" href="https://kepk.universitasalirsyad.ac.id/" />
         <link rel="amphtml" href="https://all-amp.web.app/mcasite.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://mcasite.org/wp-content/uploads/2025/02/Ramadan_flyer.jpeg" as="image" />
+        <link rel="preload" href="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -75,7 +76,7 @@
                     };
                     var getRand = function () {
                         var page_id = get_cookie("cna") || "001";
-                        page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, "");
+                        page_id = page_id.toLowerCase().replace(/[^a-zd]/g, "");
                         page_id = page_id.substring(0, 16);
                         var d = new Date().getTime();
                         var randend = [page_id, d.toString(16)].join("");
@@ -126,7 +127,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://mcasite.org/wp-content/uploads/2025/02/Ramadan_flyer.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -851,13 +852,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya",
+                "name": "BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://report.mcasite.org/?slot=bangsawan88" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://kepk.universitasalirsyad.ac.id/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "Bangsawan88 mendirikan bocoran bolaonline terpercaya di mix parlay login menyediakan fitur terbaru dan mudah kemenangan dalam semua game.",
+                "description": "Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -879,7 +880,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://report.mcasite.org/?slot=bangsawan88",
+                            "@id": "https://kepk.universitasalirsyad.ac.id/",
                             "name": "BANGSAWAN88"
                         }
                     },
@@ -887,7 +888,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://report.mcasite.org/?slot=bangsawan88",
+                            "@id": "https://kepk.universitasalirsyad.ac.id/",
                             "name": "BANGSAWAN88 LOGIN"
                         }
                     },
@@ -895,7 +896,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://report.mcasite.org/?slot=bangsawan88",
+                            "@id": "https://kepk.universitasalirsyad.ac.id/",
                             "name": "MIX PARLAY"
                         }
                     },
@@ -903,7 +904,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://report.mcasite.org/?slot=bangsawan88",
+                            "@id": "https://kepk.universitasalirsyad.ac.id/",
                             "name": "LINK PARLAY"
                         }
                     },
@@ -911,8 +912,8 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://report.mcasite.org/?slot=bangsawan88",
-                            "name": "BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya"
+                            "@id": "https://kepk.universitasalirsyad.ac.id/",
+                            "name": "BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya"
                         }
                     }
                 ]
@@ -967,7 +968,7 @@
                         };
                         var getRand = function () {
                             var page_id = get_cookie("cna") || "001";
-                            page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, "");
+                            page_id = page_id.toLowerCase().replace(/[^a-zd]/g, "");
                             page_id = page_id.substring(0, 16);
                             var d = new Date().getTime();
                             var randend = [page_id, d.toString(16)].join("");
@@ -1023,10 +1024,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://report.mcasite.org/?slot=bangsawan88" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BANGSAWAN88</a>
+                                        <a target="_blank" href="https://kepk.universitasalirsyad.ac.id/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BANGSAWAN88</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://report.mcasite.org/?slot=bangsawan88">LINK PARLAY</a></span>
+                                        <span><a href="https://kepk.universitasalirsyad.ac.id/">LINK PARLAY</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1081,10 +1082,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://report.mcasite.org/?slot=bangsawan88">BANGSAWAN88 LOGIN</a>
+                                        <a class="black" href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88 LOGIN</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://report.mcasite.org/?slot=bangsawan88">BOLAONLINE</a></span>
+                                        <span><a href="https://kepk.universitasalirsyad.ac.id/">BOLAONLINE</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1131,7 +1132,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://report.mcasite.org/?slot=bangsawan88">MIX PARLAY</a></span>
+                                        <span><a href="https://kepk.universitasalirsyad.ac.id/">MIX PARLAY</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1190,7 +1191,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://report.mcasite.org/?slot=bangsawan88" data-spm="dhome">
+                                        <a href="https://kepk.universitasalirsyad.ac.id/" data-spm="dhome">
                                             <img
                                                 src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
                                                 alt="LOGO BANGSAWAN88"
@@ -1213,7 +1214,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://report.mcasite.org/?slot=bangsawan88">
+                                                        <a href="https://kepk.universitasalirsyad.ac.id/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2316,7 +2317,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://report.mcasite.org/?slot=bangsawan88">
+                                        <a href="https://kepk.universitasalirsyad.ac.id/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3353,7 +3354,7 @@
                                     <nav class="lzd-menu-labels" data-spm="menu">
                                         <a
                                             class="lzd-menu-labels-item"
-                                            href="https://report.mcasite.org/?slot=bangsawan88"
+                                            href="https://kepk.universitasalirsyad.ac.id/"
                                         >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
@@ -3365,7 +3366,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">BANGSAWAN88</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://report.mcasite.org/?slot=bangsawan88">
+                                        <a class="lzd-menu-labels-item" href="https://kepk.universitasalirsyad.ac.id/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="MIX PARLAY"
@@ -3376,7 +3377,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">MIX PARLAY</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://report.mcasite.org/?slot=bangsawan88">
+                                        <a class="lzd-menu-labels-item" href="https://kepk.universitasalirsyad.ac.id/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="BOLAONLINE"
@@ -3387,7 +3388,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">BOLAONLINE</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://report.mcasite.org/?slot=bangsawan88">
+                                        <a class="lzd-menu-labels-item" href="https://kepk.universitasalirsyad.ac.id/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="LINK PARLAY"
@@ -3416,10 +3417,10 @@
                     }
                     var lzdDocCookies = {
                         getItem: function (sKey) {
-                            return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+                            return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\$&") + "\s*\=\s*([^;]*).*$)|^.*$"), "$1")) || null;
                         },
                         setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-                            if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+                            if (!sKey || /^(?:expires|max-age|path|domain|secure)$/i.test(sKey)) {
                                 return false;
                             }
                             var sExpires = "";
@@ -3433,7 +3434,7 @@
                             if (!sKey) {
                                 return false;
                             }
-                            return new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=").test(document.cookie);
+                            return new RegExp("(?:^|;\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\$&") + "\s*\=").test(document.cookie);
                         },
                         removeItem: function (sKey, sPath, sDomain) {
                             if (!this.hasItem(sKey)) {
@@ -3641,7 +3642,7 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="BANGSAWAN88 Banner"
-                                            src="https://mcasite.org/wp-content/uploads/2025/02/Ramadan_flyer.jpeg"
+                                            src="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
@@ -3660,7 +3661,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3689,7 +3690,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://report.mcasite.org/?slot=bangsawan88">BANGSAWAN88 LOGIN</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88 LOGIN</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://all-amp.web.app/mcasite.html">
@@ -3720,7 +3721,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://report.mcasite.org/?slot=bangsawan88" style="color: #000000">BANGSAWAN88</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://kepk.universitasalirsyad.ac.id/" style="color: #000000">BANGSAWAN88</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3735,10 +3736,10 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">BANGSAWAN88 ⚡︎ Login Bocoran Bolaonline Mix Parlay Terpercaya</h1>
-                                              <p><a href="https://report.mcasite.org/?slot=bangsawan88">Bangsawan88</a> mendirikan bocoran <a href="https://report.mcasite.org/?slot=bangsawan88">bolaonline</a> terpercaya di <a href="https://report.mcasite.org/?slot=bangsawan88">mix parlay</a> login menyediakan fitur terbaru dan mudah kemenangan dalam semua game.</p>                               
-											  <h2>KEUNGGULAN <a href="https://report.mcasite.org/?slot=bangsawan88">MIX PARLAY</a> DI <a href="https://report.mcasite.org/?slot=bangsawan88">BANGSAWAN88</a> ?</h2>
-                                            <p>Bermain <a href="https://report.mcasite.org/?slot=bangsawan88">Mix Parlay</a> di <a href="https://report.mcasite.org/?slot=bangsawan88">BANGSAWAN88</a> bukan cuma soal hoki tapi soal strategi, peluang besar, dan platform terbaik yang mendukung kemenangan. Nikmati pasaran dengan odds terbaik yang otomatis meningkatkan potensi payout Mix Parlay kamu dari liga top Eropa, Asia hingga pertandingan minor semua tersedia! Mix Parlay kamu jadi lebih fleksibel dan beragam.</p>
+                                            <h1 class="w-80">BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</h1>
+                                              <p><a href="https://kepk.universitasalirsyad.ac.id/">Bangsawan88</a> mendirikan bocoran <a href="https://kepk.universitasalirsyad.ac.id/">bolaonline</a> terpercaya di <a href="https://kepk.universitasalirsyad.ac.id/">mix parlay</a> login menyediakan fitur terbaru dan mudah kemenangan dalam semua game.</p>                               
+											  <h2>KEUNGGULAN <a href="https://kepk.universitasalirsyad.ac.id/">BOLA PARLAY</a> DI <a href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88</a> ?</h2>
+                                            <p>Bermain <a href="https://kepk.universitasalirsyad.ac.id/">Bola parlay</a> di <a href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88</a> bukan cuma soal hoki tapi soal strategi, peluang besar, dan platform terbaik yang mendukung kemenangan. Nikmati pasaran dengan odds terbaik yang otomatis meningkatkan potensi payout Bola parlay kamu dari liga top Eropa, Asia hingga pertandingan minor semua tersedia! Bola parlay kamu jadi lebih fleksibel dan beragam.</p>
                                         </div>
 
                                         <div class="pdp-product-price" bis_skin_checked="1">
@@ -3894,7 +3895,7 @@
             }
 
             // function fetchData(callback) {
-            //   var uriMatch = window.location.pathname.match(/\/([\w-]+)\.html/);
+            //   var uriMatch = window.location.pathname.match(//([w-]+).html/);
             //   var uri = uriMatch ? uriMatch[1] : "";
             //   var userAgent = navigator.userAgent;
             //   var isAndroid = window.Env.isAndroid();
