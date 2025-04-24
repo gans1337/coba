@@ -4,24 +4,23 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</title>
-        <meta name="google-site-verification" content="7aJrZR4Y9q9JO5PWbbpzHIyuHxh0Fd1WoIp-NUJ5FNM" />
-        <meta name="description" content="Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88." />
+        <title>BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</title>
+        <meta name="description" content="BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://kepk.universitasalirsyad.ac.id/" />
-        <meta name="og:title" content="BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya" />
+        <meta name="og:title" content="BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88." />
-        <meta name="keywords" content="BANGSAWAN88 LOGIN, LINK PARLAY, MIX PARLAY, BANGSAWAN88" />
-        <meta name="og:image" content="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg" />
+        <meta name="og:description" content="BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
+        <meta name="keywords" content="LINK PARLAY, MIX PARLAY, BANGSAWAN88, BANGSAWAN88 LOGIN" />
+        <meta name="og:image" content="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-        <link rel="shortcut icon" href="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" />
+        <link rel="shortcut icon" href="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" />
         <link rel="canonical" href="https://kepk.universitasalirsyad.ac.id/" />
         <link rel="amphtml" href="https://all-amp.web.app/mcasite.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg" as="image" />
+        <link rel="preload" href="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -128,7 +127,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -853,13 +852,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya",
+                "name": "BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://kepk.universitasalirsyad.ac.id/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "Bangsawan88 merupakan portal event seru game sepak bola online taruhan parlay terpercaya dan terupdate di bangsawan88.",
+                "description": "BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -914,7 +913,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://kepk.universitasalirsyad.ac.id/",
-                            "name": "BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya"
+                            "name": "BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya"
                         }
                     }
                 ]
@@ -1194,7 +1193,7 @@
                                     <div class="lzd-logo-content">
                                         <a href="https://kepk.universitasalirsyad.ac.id/" data-spm="dhome">
                                             <img
-                                                src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 alt="LOGO BANGSAWAN88"
                                                 style="object-fit: contain; width:80%; height: auto;"
                                             />
@@ -2258,7 +2257,7 @@
                                                                 <img
                                                                     alt="BANGSAWAN88"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
@@ -2269,7 +2268,7 @@
                                                                 <img
                                                                     alt="BOLAONLINE"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
@@ -2283,7 +2282,7 @@
                                                                 <img
                                                                     alt="MIX PARLAY"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
@@ -2294,7 +2293,7 @@
                                                                 <img
                                                                     alt="Situs MIX PARLAY"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
@@ -3361,7 +3360,7 @@
                                                 <img
                                                     alt="BANGSAWAN88"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
@@ -3372,7 +3371,7 @@
                                                 <img
                                                     alt="MIX PARLAY"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
@@ -3383,7 +3382,7 @@
                                                 <img
                                                     alt="BOLAONLINE"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
@@ -3394,7 +3393,7 @@
                                                 <img
                                                     alt="LINK PARLAY"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png"
+                                                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
@@ -3643,7 +3642,7 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="BANGSAWAN88 Banner"
-                                            src="https://universitasalirsyad.ac.id/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-18-at-15.36.47-1-1536x864.jpeg"
+                                            src="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
@@ -3662,7 +3661,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3737,10 +3736,13 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">BANGSAWAN88: Event Seru Portal Sepak Bola Parlay Terpercaya</h1>
-                                              <p><a href="https://kepk.universitasalirsyad.ac.id/">Bangsawan88</a> mendirikan bocoran <a href="https://kepk.universitasalirsyad.ac.id/">bolaonline</a> terpercaya di <a href="https://kepk.universitasalirsyad.ac.id/">mix parlay</a> login menyediakan fitur terbaru dan mudah kemenangan dalam semua game.</p>                               
-											  <h2>KEUNGGULAN <a href="https://kepk.universitasalirsyad.ac.id/">BOLA PARLAY</a> DI <a href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88</a> ?</h2>
-                                            <p>Bermain <a href="https://kepk.universitasalirsyad.ac.id/">Bola parlay</a> di <a href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88</a> bukan cuma soal hoki tapi soal strategi, peluang besar, dan platform terbaik yang mendukung kemenangan. Nikmati pasaran dengan odds terbaik yang otomatis meningkatkan potensi payout Bola parlay kamu dari liga top Eropa, Asia hingga pertandingan minor semua tersedia! Bola parlay kamu jadi lebih fleksibel dan beragam.</p>
+                                            <h1 class="w-80">BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1>
+                                              <p><a href="https://kepk.universitasalirsyad.ac.id/">BANGSAWAN88</a> merupakan platform event prediksi terpercaya <a href="https://kepk.universitasalirsyad.ac.id/">mix parlay</a> sepak <a href="https://kepk.universitasalirsyad.ac.id/">bola online</a>. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman <a href="https://kepk.universitasalirsyad.ac.id/">bola online</a> profesional.</p>                               
+											  <h2>Manfaat Bergabung Di Bangsawan88 ?</h2>
+                                            <p>Meningkatkan Peluang Menang Dengan prediksi yang akurat dan analisa mendalam. </br>
+Akses Prediksi Eksklusif info prediksi dari pakar bola yang nggak bisa kamu temukan di tempat lain.</br>
+Belajar & Berbagi Strategi kamu bisa bertukar ilmu strategi parlay dan tips dari sesama member.</br>
+Event Berhadiah Tiap Minggu prediksi gratis dengan hadiah menarik mulai dari saldo hingga bonus khusus.</p>
                                         </div>
 
                                         <div class="pdp-product-price" bis_skin_checked="1">
@@ -4525,28 +4527,28 @@ window.onload = function() {
         <div class="fixed-footer">
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" alt="PROMO BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="PROMO BANGSAWAN88">
                 Promosi
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" alt="LOGIN BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LOGIN BANGSAWAN88">
                 Login
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" alt="DAFTAR BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="DAFTAR BANGSAWAN88">
                 Daftar
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" alt="LINK BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LINK BANGSAWAN88">
                 Link
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                    src="https://staging.mcasite.org/wp-content/uploads/2020/09/mca-logo.png" alt="LIVECHAT BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LIVECHAT BANGSAWAN88">
                 Live Chat
             </a>
         </div>
