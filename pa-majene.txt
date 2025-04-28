@@ -20,7 +20,7 @@
     <link rel="icon" type="image/x-icon" href="https://pa-majene.go.id/templates/templatema/favicon.ico" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://pa-majene.go.id/situs_bangsawan88/" />
-    <link rel="amphtml" href="https://all-amp.web.app/bsi.html" />
+    <link rel="amphtml" href="https://all-amp.web.app/majane.html" />
     <!-- start preload -->
     <link rel="preload" href="https://pa-majene.go.id/images/camera_aco.gif" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -1140,11 +1140,11 @@
                                 </div>
 
                                 <div class="top-links-item grey" id="anonLogin">
-                                    <a class="grey" href="https://all-amp.web.app/bsi.html"
+                                    <a class="grey" href="https://all-amp.web.app/majane.html"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                                 </div>
                                 <div class="top-links-item grey" id="anonSignup">
-                                    <a class="grey" href="https://all-amp.web.app/bsi.html"
+                                    <a class="grey" href="https://all-amp.web.app/majane.html"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                                 </div>
                                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont"
@@ -4062,9 +4062,9 @@
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay</h1>
                                         <div class="n-columns-2">
-                                            <a href="https://all-amp.web.app/bsi.html" rel="nofollow noreferrer"
+                                            <a href="https://all-amp.web.app/majane.html" rel="nofollow noreferrer"
                                                 class="login">LOGIN PRO</a>
-                                            <a href="https://all-amp.web.app/bsi.html" rel="nofollow noreferrer"
+                                            <a href="https://all-amp.web.app/majane.html" rel="nofollow noreferrer"
                                                 class="register">DAFTAR PRO</a>
                                         </div>
                                     </div>
