@@ -11,7 +11,7 @@
     <meta name="robots" content="index, follow" /> 
     <meta name="language" content="Indonesia" />
     <meta name="author" content="BANGSAWAN88" />
-    <meta name="og:url" content="https://pa-majene.go.id/situs_bangsawan88/" />
+    <meta name="og:url" content="https://pa-majene.go.id/situs_bangsawan88" />
     <meta name="og:title" content="BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Bangsawan88 adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan." />
@@ -19,7 +19,7 @@
     <meta name="og:image" content="https://pa-majene.go.id/images/camera_aco.gif" />
     <link rel="icon" type="image/x-icon" href="https://pa-majene.go.id/templates/templatema/favicon.ico" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://pa-majene.go.id/situs_bangsawan88/" />
+    <link rel="canonical" href="https://pa-majene.go.id/situs_bangsawan88" />
     <link rel="amphtml" href="https://all-amp.web.app/majane.html" />
     <!-- start preload -->
     <link rel="preload" href="https://pa-majene.go.id/images/camera_aco.gif" as="image" />
@@ -841,27 +841,27 @@
             "@type": "ListItem", 
             "position": 1, 
             "name": "BANGSAWAN88",
-            "item": "https://pa-majene.go.id/situs_bangsawan88/"  
+            "item": "https://pa-majene.go.id/situs_bangsawan88"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "BANGSAWAN88 Terbaru",
-            "item": "https://pa-majene.go.id/situs_bangsawan88/"  
+            "item": "https://pa-majene.go.id/situs_bangsawan88"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "Bangsawan88 Login",
-            "item": "https://pa-majene.go.id/situs_bangsawan88/"  
+            "item": "https://pa-majene.go.id/situs_bangsawan88"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "MIX PARLAY",
-            "item": "https://pa-majene.go.id/situs_bangsawan88/"  
+            "item": "https://pa-majene.go.id/situs_bangsawan88"  
           },{
             "@type": "ListItem", 
             "position": 5, 
             "name": "BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay",
-            "item": "https://pa-majene.go.id/situs_bangsawan88/"  
+            "item": "https://pa-majene.go.id/situs_bangsawan88"  
           }]
         }
         </script>
@@ -1044,10 +1044,10 @@
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://pa-majene.go.id/situs_bangsawan88/" class="store-link">
+                                                        <a href="https://pa-majene.go.id/situs_bangsawan88" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://pa-majene.go.id/situs_bangsawan88/" class="store-link">
+                                                        <a href="https://pa-majene.go.id/situs_bangsawan88" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -2572,7 +2572,7 @@
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://pa-majene.go.id/situs_bangsawan88/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://pa-majene.go.id/situs_bangsawan88" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -4207,10 +4207,10 @@
                                 }
                             </style>
                             <div class="content">
-                               <p><a href="https://pa-majene.go.id/situs_bangsawan88/">Bangsawan88</a> adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan.                                      
-							   <h2>KENAPA HARUS PILIH <a href="https://pa-majene.go.id/situs_bangsawan88/">BANGSAWAN88</a> ?</h2>
+                               <p><a href="https://pa-majene.go.id/situs_bangsawan88">Bangsawan88</a> adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan.                                      
+							   <h2>KENAPA HARUS PILIH <a href="https://pa-majene.go.id/situs_bangsawan88">BANGSAWAN88</a> ?</h2>
                                             <p>
-<a href="https://pa-majene.go.id/situs_bangsawan88/">Bangsawan88</a> bukan sekadar situs taruhan biasa. Kami hadir dengan RTP akurat dan Mix Parlay terbaik yang dirancang khusus untuk kamu yang ingin menang besar!
+<a href="https://pa-majene.go.id/situs_bangsawan88">Bangsawan88</a> bukan sekadar situs taruhan biasa. Kami hadir dengan RTP akurat dan Mix Parlay terbaik yang dirancang khusus untuk kamu yang ingin menang besar!
 </br>RTP transparan & real-time
 </br>Pilihan Mix Parlay terlengkap
 </br>Login super cepat & aman
