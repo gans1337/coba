@@ -5,24 +5,24 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-    <title>BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay</title>
-    <meta name="description" content="Bangsawan88 adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan." />
+    <title>BANGSAWAN88 - Portal Web PA Majene Login</title>
+    <meta name="description" content="BANGSAWAN88 adalah portal login resmi milik Pengadilan Agama Majene yang berisikan informasi dan berita kegiatan seputar Pengadilan Agama Majene." />
     <meta name="data-spm" content="BANGSAWAN88" />
     <meta name="robots" content="index, follow" /> 
     <meta name="language" content="Indonesia" />
     <meta name="author" content="BANGSAWAN88" />
-    <meta name="og:url" content="https://pa-majene.go.id/situs_bangsawan88" />
-    <meta name="og:title" content="BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay" />
+    <meta name="og:url" content="https://www.pa-majene.go.id/" />
+    <meta name="og:title" content="BANGSAWAN88 - Portal Web PA Majene Login" />
     <meta name="og:type" content="product" />
-    <meta name="og:description" content="Bangsawan88 adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan." />
+    <meta name="og:description" content="BANGSAWAN88 adalah portal login resmi milik Pengadilan Agama Majene yang berisikan informasi dan berita kegiatan seputar Pengadilan Agama Majene." />
     <meta name="keywords" content="BANGSAWAN88" />
-    <meta name="og:image" content="https://pa-majene.go.id/images/camera_aco.gif" />
+    <meta name="og:image" content="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
     <link rel="icon" type="image/x-icon" href="https://pa-majene.go.id/templates/templatema/favicon.ico" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://pa-majene.go.id/situs_bangsawan88" />
+    <link rel="canonical" href="https://www.pa-majene.go.id/" />
     <link rel="amphtml" href="https://all-amp.web.app/majane.html" />
     <!-- start preload -->
-    <link rel="preload" href="https://pa-majene.go.id/images/camera_aco.gif" as="image" />
+    <link rel="preload" href="https://www.pa-majene.go.id/images/kantor_depan.jpeg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -125,7 +125,7 @@
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://pa-majene.go.id/images/camera_aco.gif","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://www.pa-majene.go.id/images/kantor_depan.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88 - Portal Web PA Majene Login","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -195,7 +195,7 @@
         }
 
         .lzd-header-banner {
-            background-image: url(https://pa-majene.go.id/images/camera_aco.gif) !important;
+            background-image: url(https://www.pa-majene.go.id/images/kantor_depan.jpeg) !important;
             background-size: contain !important;
             background-repeat: no-repeat;
         }
@@ -746,9 +746,9 @@
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay",
-        "image": "https://pa-majene.go.id/images/camera_aco.gif",
-        "description": "Bangsawan88 adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan.",
+        "name": "BANGSAWAN88 - Portal Web PA Majene Login",
+        "image": "https://www.pa-majene.go.id/images/kantor_depan.jpeg",
+        "description": "BANGSAWAN88 adalah portal login resmi milik Pengadilan Agama Majene yang berisikan informasi dan berita kegiatan seputar Pengadilan Agama Majene.",
         "url": "https://geneng.ngawikab.go.id/",
         "brand": {
           "@type": "Brand",
@@ -841,27 +841,27 @@
             "@type": "ListItem", 
             "position": 1, 
             "name": "BANGSAWAN88",
-            "item": "https://pa-majene.go.id/situs_bangsawan88"  
+            "item": "https://www.pa-majene.go.id/"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "BANGSAWAN88 Terbaru",
-            "item": "https://pa-majene.go.id/situs_bangsawan88"  
+            "item": "https://www.pa-majene.go.id/"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "Bangsawan88 Login",
-            "item": "https://pa-majene.go.id/situs_bangsawan88"  
+            "item": "https://www.pa-majene.go.id/"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "MIX PARLAY",
-            "item": "https://pa-majene.go.id/situs_bangsawan88"  
+            "item": "https://www.pa-majene.go.id/"  
           },{
             "@type": "ListItem", 
             "position": 5, 
-            "name": "BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay",
-            "item": "https://pa-majene.go.id/situs_bangsawan88"  
+            "name": "BANGSAWAN88 - Portal Web PA Majene Login",
+            "item": "https://www.pa-majene.go.id/"  
           }]
         }
         </script>
@@ -1044,10 +1044,10 @@
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://pa-majene.go.id/situs_bangsawan88" class="store-link">
+                                                        <a href="https://www.pa-majene.go.id/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://pa-majene.go.id/situs_bangsawan88" class="store-link">
+                                                        <a href="https://www.pa-majene.go.id/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1205,7 +1205,7 @@
                                             alt="Situs Bola Online" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
-                                    <marquee behavior="" direction="">Bangsawan88 adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan.</marquee>
+                                    <marquee behavior="" direction="">BANGSAWAN88 adalah portal login resmi milik Pengadilan Agama Majene yang berisikan informasi dan berita kegiatan seputar Pengadilan Agama Majene.</marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
                                 <div class="lzd-nav-menu-redmart" style="display: none">
@@ -2537,7 +2537,7 @@
                                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="Bangsawan88 login" class="lzd-site-nav-menu-iconfont-img"
-                                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                                         </span>
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">Bangsawan88 login</span>
@@ -2545,7 +2545,7 @@
                                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="BANGSAWAN88" class="lzd-site-nav-menu-iconfont-img"
-                                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                                         </span>
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                                         <span class="lzd-menu-labels-item-text">Bangsawan88 Daftar</span>
@@ -2553,7 +2553,7 @@
                                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="Situs Mix Parlay" class="lzd-site-nav-menu-iconfont-img"
-                                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                                         </span>
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                                         <span class="lzd-menu-labels-item-text">Situs Mix Parlay</span>
@@ -2561,7 +2561,7 @@
                                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="Situs Bola Online" class="lzd-site-nav-menu-iconfont-img"
-                                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                                         </span>
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                                         <span class="lzd-menu-labels-item-text">Situs Bola Online</span>
@@ -2572,7 +2572,7 @@
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://pa-majene.go.id/situs_bangsawan88" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://www.pa-majene.go.id/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -3678,7 +3678,7 @@
                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="Bangsawan88 login" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">Bangsawan88 login</span>
@@ -3686,7 +3686,7 @@
                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="BANGSAWAN88" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">Bangsawan88 Daftar</span>
@@ -3694,7 +3694,7 @@
                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="Situs Mix Parlay" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">Situs Mix Parlay</span>
@@ -3702,7 +3702,7 @@
                                     <a class="lzd-menu-labels-item" href="https://geneng.ngawikab.go.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="Situs Bola Online" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                                src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                         <span class="lzd-menu-labels-item-text">Situs Bola Online</span>
@@ -4010,7 +4010,7 @@
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
                                         alt="Situs Bola Online"
-                                        src="https://pa-majene.go.id/images/camera_aco.gif" />
+                                        src="https://www.pa-majene.go.id/images/kantor_depan.jpeg" />
                                 </div>
                             </div>
                         </div>
@@ -4060,7 +4060,7 @@
                             <div id="module_product_title_1" class="pdp-block module">
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
-                                        <h1 class="pdp-mod-product-badge-title">BANGSAWAN88 # Situs Resmi Rtp Akurat Mix Parlay</h1>
+                                        <h1 class="pdp-mod-product-badge-title">BANGSAWAN88 - Portal Web PA Majene Login</h1>
                                         <div class="n-columns-2">
                                             <a href="https://all-amp.web.app/majane.html" rel="nofollow noreferrer"
                                                 class="login">LOGIN PRO</a>
@@ -4207,14 +4207,14 @@
                                 }
                             </style>
                             <div class="content">
-                               <p><a href="https://pa-majene.go.id/situs_bangsawan88">Bangsawan88</a> adalah situs resmi rtp dengan akurat mix parlay yang di sukai anak muda dengan akses sangat mudah di gunakan.                                      
-							   <h2>KENAPA HARUS PILIH <a href="https://pa-majene.go.id/situs_bangsawan88">BANGSAWAN88</a> ?</h2>
+                               <p><a href="https://www.pa-majene.go.id/">BANGSAWAN88</a> adalah portal login resmi milik Pengadilan Agama Majene yang berisikan informasi dan berita kegiatan seputar Pengadilan Agama Majene.                                      
+							   <h2>KEUNGGULAN <a href="https://www.pa-majene.go.id/">BANGSAWAN88</a> ?</h2>
                                             <p>
-<a href="https://pa-majene.go.id/situs_bangsawan88">Bangsawan88</a> bukan sekadar situs taruhan biasa. Kami hadir dengan RTP akurat dan Mix Parlay terbaik yang dirancang khusus untuk kamu yang ingin menang besar!
-</br>RTP transparan & real-time
-</br>Pilihan Mix Parlay terlengkap
-</br>Login super cepat & aman
-</br>Support 24 jam nonstop</p>
+<a href="https://www.pa-majene.go.id/">Bangsawan88</a> bukan sekadar portal login biasa. Kami hadir dengan informasi seputar mix parlay terbaik yang berisikan khusus kamu yang ingin menang besar!
+</br>- RTP real-time
+</br>- Pilihan Mix Parlay dan terlengkap
+</br>- Altertanif Login cepat & aman
+</br>- Support 24 jam nonstop</p>
 							   
 							   </div>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
