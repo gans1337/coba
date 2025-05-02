@@ -4,20 +4,20 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</title>
-        <meta name="description" content="BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
+        <title>BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</title>
+        <meta name="description" content="BINTARO88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://brinquedoteca.muz.ifsuldeminas.edu.br/" />
-        <meta name="og:title" content="BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya" />
+        <meta name="og:url" content="https://id.muz.ifsuldeminas.edu.br/" />
+        <meta name="og:title" content="BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
-        <meta name="keywords" content="LINK PARLAY, MIX PARLAY, BANGSAWAN88, BANGSAWAN88 LOGIN" />
+        <meta name="og:description" content="BINTARO88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional." />
+        <meta name="keywords" content="LINK PARLAY, MIX PARLAY, BINTARO88, BINTARO88 LOGIN" />
         <meta name="og:image" content="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" />
-        <link rel="canonical" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" />
+        <link rel="canonical" href="https://id.muz.ifsuldeminas.edu.br/" />
         <link rel="amphtml" href="https://all-amp.web.app/mcasite.html" />
         <!-- start preload -->
         <link rel="preload" href="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg" as="image" />
@@ -127,7 +127,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -852,18 +852,18 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya",
+                "name": "BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://brinquedoteca.muz.ifsuldeminas.edu.br/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://id.muz.ifsuldeminas.edu.br/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "BANGSAWAN88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional.",
+                "description": "BINTARO88 merupakan platform event prediksi terpercaya mix parlay sepak bola online. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman bola online profesional.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
                     "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
-                    "seller": { "@type": "Organization", "name": "BANGSAWAN88" },
+                    "seller": { "@type": "Organization", "name": "BINTARO88" },
                     "priceCurrency": "IDR",
                     "price": 10.000,
                     "availability": "https://schema.org/InStock",
@@ -880,23 +880,23 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://brinquedoteca.muz.ifsuldeminas.edu.br/",
-                            "name": "BANGSAWAN88"
+                            "@id": "https://id.muz.ifsuldeminas.edu.br/",
+                            "name": "BINTARO88"
                         }
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://brinquedoteca.muz.ifsuldeminas.edu.br/",
-                            "name": "BANGSAWAN88 LOGIN"
+                            "@id": "https://id.muz.ifsuldeminas.edu.br/",
+                            "name": "BINTARO88 LOGIN"
                         }
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://brinquedoteca.muz.ifsuldeminas.edu.br/",
+                            "@id": "https://id.muz.ifsuldeminas.edu.br/",
                             "name": "MIX PARLAY"
                         }
                     },
@@ -904,7 +904,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://brinquedoteca.muz.ifsuldeminas.edu.br/",
+                            "@id": "https://id.muz.ifsuldeminas.edu.br/",
                             "name": "LINK PARLAY"
                         }
                     },
@@ -912,8 +912,8 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://brinquedoteca.muz.ifsuldeminas.edu.br/",
-                            "name": "BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya"
+                            "@id": "https://id.muz.ifsuldeminas.edu.br/",
+                            "name": "BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya"
                         }
                     }
                 ]
@@ -1024,10 +1024,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BANGSAWAN88</a>
+                                        <a target="_blank" href="https://id.muz.ifsuldeminas.edu.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">BINTARO88</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">LINK PARLAY</a></span>
+                                        <span><a href="https://id.muz.ifsuldeminas.edu.br/">LINK PARLAY</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1082,10 +1082,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">BANGSAWAN88 LOGIN</a>
+                                        <a class="black" href="https://id.muz.ifsuldeminas.edu.br/">BINTARO88 LOGIN</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">BOLAONLINE</a></span>
+                                        <span><a href="https://id.muz.ifsuldeminas.edu.br/">BOLAONLINE</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1132,11 +1132,11 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">MIX PARLAY</a></span>
+                                        <span><a href="https://id.muz.ifsuldeminas.edu.br/">MIX PARLAY</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">BANGSAWAN88 LOGIN Slot & MIX PARLAY</div>
+                                                <div class="track-title">BINTARO88 LOGIN Slot & MIX PARLAY</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -1191,16 +1191,16 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" data-spm="dhome">
+                                        <a href="https://id.muz.ifsuldeminas.edu.br/" data-spm="dhome">
                                             <img
                                                 src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
-                                                alt="LOGO BANGSAWAN88"
+                                                alt="LOGO BINTARO88"
                                                 style="object-fit: contain; width:80%; height: auto;"
                                             />
                                         </a>
                                     </div>
                                     <div class="lzd-nav-search" data-spm="search">
-                                        <input type="text" class="input-search" placeholder="CARI DI BANGSAWAN88">
+                                        <input type="text" class="input-search" placeholder="CARI DI BINTARO88">
                                         <div class="container-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
                                                 <path d="M15.4466 15.4466C18.1766 12.7166 18.1766 8.28331 15.4466 5.54164C12.7166 2.81164 8.28331 2.81164 5.54164 5.54164C2.81164 8.27164 2.81164 12.705 5.54164 15.4466C8.27164 18.1766 12.705 18.1766 15.4466 15.4466Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -1214,7 +1214,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">
+                                                        <a href="https://id.muz.ifsuldeminas.edu.br/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2255,13 +2255,13 @@
                                                         >
                                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                                 <img
-                                                                    alt="BANGSAWAN88"
+                                                                    alt="BINTARO88"
                                                                     class="lzd-site-nav-menu-iconfont-img"
                                                                     src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                                                            <span class="lzd-menu-labels-item-text">BANGSAWAN88</span>
+                                                            <span class="lzd-menu-labels-item-text">BINTARO88</span>
                                                         </a>
                                                         <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -2317,7 +2317,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">
+                                        <a href="https://id.muz.ifsuldeminas.edu.br/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3354,19 +3354,19 @@
                                     <nav class="lzd-menu-labels" data-spm="menu">
                                         <a
                                             class="lzd-menu-labels-item"
-                                            href="https://brinquedoteca.muz.ifsuldeminas.edu.br/"
+                                            href="https://id.muz.ifsuldeminas.edu.br/"
                                         >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
-                                                    alt="BANGSAWAN88"
+                                                    alt="BINTARO88"
                                                     class="lzd-site-nav-menu-iconfont-img"
                                                     src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                                            <span class="lzd-menu-labels-item-text">BANGSAWAN88</span>
+                                            <span class="lzd-menu-labels-item-text">BINTARO88</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">
+                                        <a class="lzd-menu-labels-item" href="https://id.muz.ifsuldeminas.edu.br/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="MIX PARLAY"
@@ -3377,7 +3377,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">MIX PARLAY</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">
+                                        <a class="lzd-menu-labels-item" href="https://id.muz.ifsuldeminas.edu.br/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="BOLAONLINE"
@@ -3388,7 +3388,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">BOLAONLINE</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">
+                                        <a class="lzd-menu-labels-item" href="https://id.muz.ifsuldeminas.edu.br/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="LINK PARLAY"
@@ -3641,7 +3641,7 @@
                                     <div class="gallery-preview-panel__content">
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
-                                            alt="BANGSAWAN88 Banner"
+                                            alt="BINTARO88 Banner"
                                             src="http://ners.universitasalirsyad.ac.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-02-17-at-11.15.58.jpeg"
                                         />
                                     </div>
@@ -3661,7 +3661,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3690,7 +3690,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">BANGSAWAN88 LOGIN</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://id.muz.ifsuldeminas.edu.br/">BINTARO88 LOGIN</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://all-amp.web.app/mcasite.html">
@@ -3721,7 +3721,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" style="color: #000000">BANGSAWAN88</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://id.muz.ifsuldeminas.edu.br/" style="color: #000000">BINTARO88</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3736,9 +3736,9 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">BANGSAWAN88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1>
-                                              <p><a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">BANGSAWAN88</a> merupakan platform event prediksi terpercaya <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">mix parlay</a> sepak <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">bola online</a>. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/">bola online</a> profesional.</p>                               
-											  <h2>Manfaat Bergabung Di Bangsawan88 ?</h2>
+                                            <h1 class="w-80">BINTARO88: Event Prediksi Mix Parlay Sepak Bola Online Terpercaya</h1>
+                                              <p><a href="https://id.muz.ifsuldeminas.edu.br/">BINTARO88</a> merupakan platform event prediksi terpercaya <a href="https://id.muz.ifsuldeminas.edu.br/">mix parlay</a> sepak <a href="https://id.muz.ifsuldeminas.edu.br/">bola online</a>. Menyajikan dengan analisa akurat dan odds terbaik dengan pengalaman <a href="https://id.muz.ifsuldeminas.edu.br/">bola online</a> profesional.</p>                               
+											  <h2>Manfaat Bergabung Di BINTARO88 ?</h2>
                                             <p>Meningkatkan Peluang Menang Dengan prediksi yang akurat dan analisa mendalam. </br>
 Akses Prediksi Eksklusif info prediksi dari pakar bola yang nggak bisa kamu temukan di tempat lain.</br>
 Belajar & Berbagi Strategi kamu bisa bertukar ilmu strategi parlay dan tips dari sesama member.</br>
@@ -4527,28 +4527,28 @@ window.onload = function() {
         <div class="fixed-footer">
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="PROMO BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="PROMO BINTARO88">
                 Promosi
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LOGIN BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LOGIN BINTARO88">
                 Login
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="DAFTAR BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="DAFTAR BINTARO88">
                 Daftar
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LINK BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LINK BINTARO88">
                 Link
             </a>
             <a href="https://all-amp.web.app/mcasite.html" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LIVECHAT BANGSAWAN88">
+                    src="https://universitasalirsyad.ac.id/wp-content/uploads/2021/11/cropped-favicon-unaic-192x192.png" alt="LIVECHAT BINTARO88">
                 Live Chat
             </a>
         </div>
