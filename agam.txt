@@ -15,7 +15,7 @@
         <meta name="og:title" content="BANGSAWAN88 # ALTERNATIF UPDATEAN SLOT RESMI TERPERCAYA" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="BANGSAWAN88 merupakan sesuatu updatean alternatif slot resmi sangat terpercaya. Dengan melakukan banyak update supaya standby rtp di 99%. ayo segera update bangsawan88 anda!" />
-        <meta name="keywords" content="BANGSAWAN88 LOGIN, BANGSAWAN88 ALTERNATIF, LINK BIINTARO88, BANGSAWAN88" />
+        <meta name="keywords" content="BANGSAWAN88 LOGIN, BANGSAWAN88 ALTERNATIF, LINK BANGSAWAN88, BANGSAWAN88" />
         <meta name="og:image" content="https://dpmptsp.agamkab.go.id/assets/imgupload/berita-1688615965.jpeg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://dpmptsp.agamkab.go.id/assets/img/vectoragam.png" />
@@ -899,7 +899,7 @@
                         "position": 3,
                         "item": {
                             "@id": "https://dpmptsp.agamkab.go.id/",
-                            "name": "LINK BIINTARO88"
+                            "name": "LINK BANGSAWAN88"
                         }
                     },
                     {
@@ -1134,11 +1134,11 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://dpmptsp.agamkab.go.id/">LINK BIINTARO88</a></span>
+                                        <span><a href="https://dpmptsp.agamkab.go.id/">LINK BANGSAWAN88</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">BANGSAWAN88 LOGIN Slot & LINK BIINTARO88</div>
+                                                <div class="track-title">BANGSAWAN88 LOGIN Slot & LINK BANGSAWAN88</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -2282,24 +2282,24 @@
                                                         >
                                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                                 <img
-                                                                    alt="LINK BIINTARO88"
+                                                                    alt="LINK BANGSAWAN88"
                                                                     class="lzd-site-nav-menu-iconfont-img"
                                                                     src="https://dpmptsp.agamkab.go.id/assets/img/vectoragam.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                                                            <span class="lzd-menu-labels-item-text">LINK BIINTARO88</span>
+                                                            <span class="lzd-menu-labels-item-text">LINK BANGSAWAN88</span>
                                                         </a>
                                                         <a class="lzd-menu-labels-item" href="//www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
                                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                                 <img
-                                                                    alt="Situs LINK BIINTARO88"
+                                                                    alt="Situs LINK BANGSAWAN88"
                                                                     class="lzd-site-nav-menu-iconfont-img"
                                                                     src="https://dpmptsp.agamkab.go.id/assets/img/vectoragam.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                                                            <span class="lzd-menu-labels-item-text">Situs LINK BIINTARO88</span>
+                                                            <span class="lzd-menu-labels-item-text">Situs LINK BANGSAWAN88</span>
                                                         </a>
                                                     </nav>
                                                 </div>
@@ -3371,13 +3371,13 @@
                                         <a class="lzd-menu-labels-item" href="https://dpmptsp.agamkab.go.id/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
-                                                    alt="LINK BIINTARO88"
+                                                    alt="LINK BANGSAWAN88"
                                                     class="lzd-site-nav-menu-iconfont-img"
                                                     src="https://dpmptsp.agamkab.go.id/assets/img/vectoragam.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                                            <span class="lzd-menu-labels-item-text">LINK BIINTARO88</span>
+                                            <span class="lzd-menu-labels-item-text">LINK BANGSAWAN88</span>
                                         </a>
                                         <a class="lzd-menu-labels-item" href="https://dpmptsp.agamkab.go.id/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
