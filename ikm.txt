@@ -1192,7 +1192,7 @@
                                     <div class="lzd-logo-content">
                                         <a href="https://www.ikm.okukab.go.id/" data-spm="dhome">
                                             <img
-                                                src="http://knkh.untar.ac.id/theme/images/fikomlogo.png"
+                                                src="https://www.ikm.okukab.go.id/asset/img/logookukab.png
                                                 alt="LOGO BANGSAWAN88"
                                                 style="object-fit: contain; width:80%; height: auto;"
                                             />
