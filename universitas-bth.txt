@@ -4,23 +4,23 @@
     <head>
         <meta charset="utf-8" />
 		    <meta name="google-site-verification" content="pSl2Y_Fnh0hIupm16_3ODeGrHTqzZ-H_hijdKiYUpfs" />
-        <title>Bangsawan88 - Log in SIM-EPK</title>
-        <meta name="description" content="Bangsawan88 adalah system untuk login sim-epk dengan masukkan username dan password bisa merasakan sensasi maxwin. gabung dan login segera cuma di bangsawan88." />
+        <title>BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE</title>
+        <meta name="description" content="Bangsawan88 adalah sistem mix parlay new update login untuk bisa merasakan sensasi maxwin. Gabung dan login Buktikan keberuntunganmu di Bangsawan88!" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://sim-kepk.universitas-bth.ac.id/" />
-        <meta name="og:title" content="Bangsawan88 - Log in SIM-EPK" />
+        <meta name="og:title" content="BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="Bangsawan88 adalah system untuk login sim-epk dengan masukkan username dan password bisa merasakan sensasi maxwin. gabung dan login segera cuma di bangsawan88." />
+        <meta name="og:description" content="Bangsawan88 adalah sistem mix parlay new update login untuk bisa merasakan sensasi maxwin. Gabung dan login Buktikan keberuntunganmu di Bangsawan88!" />
         <meta name="keywords" content="BANGSAWAN88 LOGIN, BANGSAWAN88 ALTERNATIF, LINK BANGSAWAN88, BANGSAWAN88" />
-        <meta name="og:image" content="https://v2.universitas-bth.ac.id/wp-content/uploads/2025/05/IMG_20250405_093728-min-1-1152x1536.jpg" />
+        <meta name="og:image" content="https://i.pinimg.com/736x/03/c5/f3/03c5f3e4093814e9919ae032e7f022f4.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://i.pinimg.com/736x/63/05/c3/6305c3d6373536d65785efb07a902062.jpg" />
         <link rel="canonical" href="https://sim-kepk.universitas-bth.ac.id/" />
         <link rel="amphtml" href="https://all-amp.web.app/sibolgakota.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://v2.universitas-bth.ac.id/wp-content/uploads/2025/05/IMG_20250405_093728-min-1-1152x1536.jpg" as="image" />
+        <link rel="preload" href="https://i.pinimg.com/736x/03/c5/f3/03c5f3e4093814e9919ae032e7f022f4.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -127,7 +127,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://v2.universitas-bth.ac.id/wp-content/uploads/2025/05/IMG_20250405_093728-min-1-1152x1536.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Bangsawan88 - Log in SIM-EPK","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.pinimg.com/736x/03/c5/f3/03c5f3e4093814e9919ae032e7f022f4.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -852,13 +852,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "Bangsawan88 - Log in SIM-EPK",
+                "name": "BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://sim-kepk.universitas-bth.ac.id/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "Bangsawan88 adalah system untuk login sim-epk dengan masukkan username dan password bisa merasakan sensasi maxwin. gabung dan login segera cuma di bangsawan88.",
+                "description": "Bangsawan88 adalah sistem mix parlay new update login untuk bisa merasakan sensasi maxwin. Gabung dan login Buktikan keberuntunganmu di Bangsawan88!",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -913,7 +913,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://sim-kepk.universitas-bth.ac.id/",
-                            "name": "Bangsawan88 - Log in SIM-EPK"
+                            "name": "BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE"
                         }
                     }
                 ]
@@ -3642,7 +3642,7 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="BANGSAWAN88 Banner"
-                                            src="https://v2.universitas-bth.ac.id/wp-content/uploads/2025/05/IMG_20250405_093728-min-1-1152x1536.jpg"
+                                            src="https://i.pinimg.com/736x/03/c5/f3/03c5f3e4093814e9919ae032e7f022f4.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
@@ -3661,7 +3661,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Bangsawan88 - Log in SIM-EPK</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3736,8 +3736,8 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-                                            <h1 class="w-80">Bangsawan88 - Log in SIM-EPK</h1>
-                                              <p>Bangsawan88 adalah system untuk login sim-epk dengan masukkan username dan password bisa merasakan sensasi maxwin. gabung dan login segera cuma di bangsawan88.</p>
+                                            <h1 class="w-80">BANGSAWAN - LOGIN MIX PARLAY NEW UPDATE</h1>
+                                              <p>Bangsawan88 adalah sistem mix parlay new update login untuk bisa merasakan sensasi maxwin. Gabung dan login Buktikan keberuntunganmu di Bangsawan88!</p>
 
                                         </div>
 
